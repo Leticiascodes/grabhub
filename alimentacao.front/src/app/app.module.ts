@@ -8,6 +8,11 @@ import { PrevisaoComponent } from './previsao/previsao.component';
 import { RelatorioComponent } from './relatorio/relatorio.component';
 
 import { AppRoutingModule } from './app.routing.module';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { AlimentacaoService } from '../app/services/alimentacao.service';
+
+import { HttpClientModule, HttpClient } from '@angular/common/http';
+
 
 @NgModule({
   declarations: [
@@ -19,9 +24,14 @@ import { AppRoutingModule } from './app.routing.module';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    BrowserAnimationsModule,
+    HttpClientModule
+
   ],
-  providers: [],
+  providers: [
+    AlimentacaoService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

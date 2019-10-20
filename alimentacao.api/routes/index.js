@@ -4,6 +4,7 @@ const router = express.Router();
 const pg = require('pg');
 const path = require('path');
 const connectionString = process.env.DATABASE_URL || 'postgres://localhost:5432/postgres';
+const request = require('request');
 
 router.use(cors());
 /* GET home page. */
@@ -11,6 +12,17 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
 });
 
+router.get('/getOrders', function(req,res,next){
+
+  // mock iFood
+  request('http://localhost:3002/polling', function (error, response, body) {
+  //console.log('body:', body); // Print the HTML for the Google homepage.
+  res.json(body);
+});
+
+});
+
+// BD
 router.post('/api/v1/todos', (req, res, next) => {
   const results = [];
   // Grab data from http request

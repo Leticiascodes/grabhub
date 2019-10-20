@@ -13,7 +13,6 @@ import { AlimentacaoService } from '../app/services/alimentacao.service';
 
 import { HttpClientModule, HttpClient } from '@angular/common/http';
 
-
 @NgModule({
   declarations: [
     AppComponent,
@@ -27,7 +26,6 @@ import { HttpClientModule, HttpClient } from '@angular/common/http';
     AppRoutingModule,
     BrowserAnimationsModule,
     HttpClientModule
-
   ],
   providers: [
     AlimentacaoService

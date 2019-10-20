@@ -734,6 +734,13 @@ module.exports = (app) => {
     resp.send(pollingList);
   });
 
+  app.get('/orderWithDetail', function (req, resp) {
+    
+    this.iFoodListOrders = [this.exemplo0, this.exemplo1, this.exemplo2, this.exemplo3, this.exemplo4, this.exemplo5];
+
+    resp.send(this.iFoodListOrders);
+  });
+
   // order
   app.get('/order/:id', function (req, resp) {
 

@@ -8,36 +8,44 @@ const request = require('request');
 
 router.use(cors());
 /* GET home page. */
-router.get('/', function(req, res, next) {
+router.get('/', function (req, res, next) {
   res.render('index', { title: 'Express' });
 });
 
-router.get('/getOrders', function(req,res,next){
+router.get('/getOrders', function (req, res, next) {
 
   // mock iFood
   request('http://localhost:3002/polling', function (error, response, body) {
-  //console.log('body:', body); // Print the HTML for the Google homepage.
-  res.json(body);
+    //console.log('body:', body); // Print the HTML for the Google homepage.
+    res.json(body);
+  });
 });
 
+router.get('/orderWithDetail', function (req, res, next) {
+
+  // mock iFood
+  request('http://localhost:3002/orderWithDetail', function (error, response, body) {
+    //console.log('body:', body); // Print the HTML for the Google homepage.
+    res.json(body);
+  });
 });
 
 // BD
 router.post('/api/v1/todos', (req, res, next) => {
   const results = [];
   // Grab data from http request
-  const data = {text: req.body.text, complete: false};
+  const data = { text: req.body.text, complete: false };
   // Get a Postgres client from the connection pool
   pg.connect(connectionString, (err, client, done) => {
     // Handle connection errors
-    if(err) {
+    if (err) {
       done();
       console.log(err);
-      return res.status(500).json({success: false, data: err});
+      return res.status(500).json({ success: false, data: err });
     }
     // SQL Query > Insert Data
     client.query('INSERT INTO items(text, complete) values($1, $2)',
-    [data.text, data.complete]);
+      [data.text, data.complete]);
     // SQL Query > Select Data
     const query = client.query('SELECT * FROM items ORDER BY id ASC');
     // Stream results back one row at a time
@@ -57,10 +65,10 @@ router.get('/api/v1/todos', (req, res, next) => {
   // Get a Postgres client from the connection pool
   pg.connect(connectionString, (err, client, done) => {
     // Handle connection errors
-    if(err) {
+    if (err) {
       done();
       console.log(err);
-      return res.status(500).json({success: false, data: err});
+      return res.status(500).json({ success: false, data: err });
     }
     // SQL Query > Select Data
     const query = client.query('SELECT * FROM items ORDER BY id ASC;');
@@ -81,18 +89,18 @@ router.put('/api/v1/todos/:todo_id', (req, res, next) => {
   // Grab data from the URL parameters
   const id = req.params.todo_id;
   // Grab data from http request
-  const data = {text: req.body.text, complete: req.body.complete};
+  const data = { text: req.body.text, complete: req.body.complete };
   // Get a Postgres client from the connection pool
   pg.connect(connectionString, (err, client, done) => {
     // Handle connection errors
-    if(err) {
+    if (err) {
       done();
       console.log(err);
-      return res.status(500).json({success: false, data: err});
+      return res.status(500).json({ success: false, data: err });
     }
     // SQL Query > Update Data
     client.query('UPDATE items SET text=($1), complete=($2) WHERE id=($3)',
-    [data.text, data.complete, id]);
+      [data.text, data.complete, id]);
     // SQL Query > Select Data
     const query = client.query("SELECT * FROM items ORDER BY id ASC");
     // Stream results back one row at a time
@@ -100,7 +108,7 @@ router.put('/api/v1/todos/:todo_id', (req, res, next) => {
       results.push(row);
     });
     // After all data is returned, close connection and return results
-    query.on('end', function() {
+    query.on('end', function () {
       done();
       return res.json(results);
     });
@@ -114,10 +122,10 @@ router.delete('/api/v1/todos/:todo_id', (req, res, next) => {
   // Get a Postgres client from the connection pool
   pg.connect(connectionString, (err, client, done) => {
     // Handle connection errors
-    if(err) {
+    if (err) {
       done();
       console.log(err);
-      return res.status(500).json({success: false, data: err});
+      return res.status(500).json({ success: false, data: err });
     }
     // SQL Query > Delete Data
     client.query('DELETE FROM items WHERE id=($1)', [id]);

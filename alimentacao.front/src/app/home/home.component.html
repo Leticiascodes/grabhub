@@ -41,8 +41,8 @@
         height="100%">
         <image x="0" y="0" width="100%" height="100%" href="../assets/IMG_20180429_114059_A0_Ellipse_2_pattern.png" xlink:href="IMG_20180429_114059_A0_Ellipse_2_pattern.png"></image>
       </pattern>
-      <ellipse fill="url('assets/IMG_20180429_114059_A0_Ellipse_2_pattern.png')" class="IMG_20180429_114059_Class" rx="25" ry="25" cx="25"
-        cy="25">
+      <ellipse fill="url('assets/IMG_20180429_114059_A0_Ellipse_2_pattern.png')" class="IMG_20180429_114059_Class" rx="25" ry="25"
+        cx="25" cy="25">
       </ellipse>
     </svg>
     <div class="Tamyres_Freitas_Class">
@@ -65,7 +65,7 @@
       <br>
       <span style="color:rgba(133,122,245,1);"> </span>
       <span style="color:rgba(248,147,33,1);"> </span>
-      <span style="font-style:normal;font-weight:bold;color:rgba(248,147,33,1);">Em aberto (4)</span>
+      <span style="font-style:normal;font-weight:bold;color:rgba(248,147,33,1);">Em aberto ({{orderList?.length}})</span>
       <br>
       <span> Em andamento (32)
         <br/> Enviado (8)
@@ -222,196 +222,56 @@
   <div class="Card_Actions_A0_Text_10_Class">
     <span>Loja Aberta </span>
   </div>
-  <div class="Table_Class">
-    <svg class="Path_10" viewBox="0 0 1486 712.478">
-      <path fill="rgba(255,255,255,1)" class="Path_10_Class" d="M 2.068197727203369 0 L 1483.931884765625 0 C 1485.074340820312 0 1486.000122070312 1.061521768569946 1486.000122070312 2.370975494384766 L 1486.000122070312 710.1070556640625 C 1486.000122070312 711.4165649414062 1485.074340820312 712.47802734375 1483.931884765625 712.47802734375 L 2.068197727203369 712.47802734375 C 0.9259637594223022 712.47802734375 0 711.4165649414062 0 710.1070556640625 L 0 2.370975494384766 C 0 1.061521768569946 0.9259637594223022 0 2.068197727203369 0 Z">
-      </path>
-    </svg>
-    <svg class="Rectangle_92">
-      <rect fill="rgba(248,248,248,1)" class="Rectangle_92_Class" rx="0" ry="0" x="0" y="0" width="1486" height="109">
-      </rect>
-    </svg>
-    <svg class="Rectangle_94">
-      <rect fill="rgba(248,248,248,1)" class="Rectangle_94_Class" rx="0" ry="0" x="0" y="0" width="1486" height="109">
-      </rect>
-    </svg>
-    <div class="Repeat_Grid_5_Class">
-      <div class="Repeat_Grid_5_0_Class">
-        <svg class="download">
-          <pattern elementId="download_A0_Rectangle_16" id="download_A0_Rectangle_16_pattern" x="0" y="0" width="100%" height="100%">
-            <image x="0" y="0" width="100%" height="100%" href="download_A0_Rectangle_16_pattern.png" xlink:href="download_A0_Rectangle_16_pattern.png"></image>
-          </pattern>
-          <rect fill="url('../assets/download_A0_Rectangle_16_pattern')" class="download_Class" rx="0" ry="0" x="0" y="0" width="75" height="75">
-          </rect>
-        </svg>
+
+  <div>
+    <!-- tabela -->
+    <!-- <table class="table table-borderless">
+      <thead>
+        <tr>
+          <th>Canal</th>
+          <th>Pedido</th>
+          <th>Hora</th>
+          <th>Tempo de Confirmação</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of orderList">
+          <td>{{item?.code}}</td>
+          <td>{{item?.correlationId}}</td>
+          <td>{{item?.createdAt}}</td>
+          <td>{{item?.id}}</td>
+        </tr>
+      </tbody>
+    </table> -->
+
+    <div>
+    <div class="table-responsive" style="padding: 260px 0 0 335px">
+      <table class="table table-striped table-bordered table-hover ">
+          <thead>
+              <tr>
+                <th>Canal</th>
+                <th>Pedido</th>
+                <th>Hora</th>
+                <th>Tempo de Confirmação</th>
+                <th></th>
+              </tr>
+            </thead>
+        <tr *ngFor="let item of orderList">
+        <td>{{item?.code}}</td>
+        <td>{{item?.correlationId}}</td>
+        <td>{{item?.createdAt}}</td>
+        <td>{{item?.id}}</td>
+        <td><button  (click)="confirma(item)"
+           type="button" class="btn btn-warning" 
+          style="border-radius: 14px; width: 100px; color: white">Confirmar</button></td>
+        </tr>
+      </table>
       </div>
-      <div class="Repeat_Grid_5_1_Class">
-        <svg class="download_A0_Rectangle_17">
-          <pattern elementId="download_A0_Rectangle_18" id="download_A0_Rectangle_18_pattern" x="0" y="0" width="100%" height="100%">
-            <image x="0" y="0" width="100%" height="100%" href="download_A0_Rectangle_18_pattern.png" xlink:href="download_A0_Rectangle_18_pattern.png"></image>
-          </pattern>
-          <rect fill="url('../assets/download_A0_Rectangle_18_pattern')" class="download_A0_Rectangle_17_Class" rx="0" ry="0" x="0" y="0" width="75"
-            height="75">
-          </rect>
-        </svg>
-      </div>
-      <div class="Repeat_Grid_5_2_Class">
-        <svg class="br_com_eguana_parmeWebStore">
-          <pattern elementId="br_com_eguana_parmeWebStore_A0_Rectangle_20" id="br_com_eguana_parmeWebStore_A0_Rectangle_20_pattern"
-            x="0" y="0" width="100%" height="100%">
-            <image x="0" y="0" width="100%" height="100%" href="br_com_eguana_parmeWebStore_A0_Rectangle_20_pattern.png" xlink:href="br_com_eguana_parmeWebStore_A0_Rectangle_20_pattern.png"></image>
-          </pattern>
-          <rect fill="url('../assets/br_com_eguana_parmeWebStore_A0_Rectangle_20_pattern')" class="br_com_eguana_parmeWebStore_Class" rx="0" ry="0"
-            x="0" y="0" width="75" height="75">
-          </rect>
-        </svg>
-      </div>
-      <div class="Repeat_Grid_5_3_Class">
-        <svg class="download__1_">
-          <pattern elementId="download__1__A0_Rectangle_22" id="download__1__A0_Rectangle_22_pattern" x="0" y="0" width="100%" height="100%">
-            <image x="0" y="0" width="100%" height="100%" href="download__1__A0_Rectangle_22_pattern.png" xlink:href="download__1__A0_Rectangle_22_pattern.png"></image>
-          </pattern>
-          <rect fill="url('../assets/download__1__A0_Rectangle_22_pattern')" class="download__1__Class" rx="0" ry="0" x="0" y="0" width="75" height="75">
-          </rect>
-        </svg>
-      </div>
-    </div>
-    <div class="Group_342_Class">
-      <div class="ID3216_Class">
-        <span>3216</span>
-      </div>
-      <div class="ID12_30_Class">
-        <span>12:30</span>
-      </div>
-      <div class="ID5_00_Class">
-        <span>5:00</span>
-      </div>
-    </div>
-    <div class="Group_344_Class">
-      <div class="ID2391_Class">
-        <span>2391</span>
-      </div>
-      <div class="ID12_12_Class">
-        <span>12:12</span>
-      </div>
-      <div class="ID4_20_Class">
-        <span>4:20</span>
-      </div>
-    </div>
-    <div class="Group_345_Class">
-      <div class="ID21_Class">
-        <span>21</span>
-      </div>
-      <div class="ID1_345_Class">
-        <span>1 345</span>
-      </div>
-    </div>
-    <div class="Group_346_Class">
-      <div class="ID1293_Class">
-        <span>1293</span>
-      </div>
-      <div class="ID11_47_Class">
-        <span>11:47</span>
-      </div>
-      <div class="ID2_34_Class">
-        <span>2:34</span>
-      </div>
-    </div>
-    <div class="Group_347_Class">
-      <div class="ID21_A0_Text_22_Class">
-        <span>21</span>
-      </div>
-      <div class="ID1_345_A0_Text_23_Class">
-        <span>1 345</span>
-      </div>
-    </div>
-    <div class="Group_348_Class">
-      <div class="ID4378_Class">
-        <span>4378</span>
-      </div>
-      <div class="ID11_30_Class">
-        <span>11:30</span>
-      </div>
-      <div class="ID0_40_Class">
-        <span>0:40</span>
-      </div>
-    </div>
-    <div class="Group_349_Class">
-      <div class="ID21_A0_Text_27_Class">
-        <span>21</span>
-      </div>
-      <div class="ID1_345_A0_Text_28_Class">
-        <span>1 345</span>
-      </div>
-    </div>
-    <div class="Canal_Class">
-      <span>Canal</span>
-    </div>
-    <div class="ID_Class">
-      <span>ID</span>
-    </div>
-    <div class="Hora_Class">
-      <span>Hora</span>
-    </div>
-    <div class="Tempo_de_Confirma__o_Class">
-      <span>Tempo de Confirmação</span>
-    </div>
-    <div class="Jo_o_Gomes_Class">
-      <span>João Gomes</span>
-    </div>
-    <div class="Maria_Mendes_Class">
-      <span>Maria Mendes</span>
-    </div>
-    <div class="Ana_Couto_Pereira_Class">
-      <span>Ana Couto Pereira</span>
-    </div>
-    <div class="J_lia_Andrade_Pires_Class">
-      <span>Júlia Andrade Pires</span>
-    </div>
-    <div class="Cliente_Class">
-      <span>Cliente</span>
-    </div>
+      </div> 
+
+    <!-- tabela -->
   </div>
-  <div class="Clear_All_Filters_Class">
-    <svg class="Rectangle_A0_Rectangle_23">
-      <rect fill="rgba(247,155,42,1)" class="Rectangle_A0_Rectangle_23_Class" rx="18.20404052734375" ry="18.20404052734375" x="0"
-        y="0" width="112.64" height="36.408">
-      </rect>
-    </svg>
-    <div class="CLEAR_ALL_FILTERS_Class">
-      <span>CONFIRMAR</span>
-    </div>
-  </div>
-  <div class="Clear_All_Filters_A0_Group_43_Class">
-    <svg class="Rectangle_A0_Rectangle_24">
-      <rect fill="rgba(247,155,42,1)" class="Rectangle_A0_Rectangle_24_Class" rx="18.20404052734375" ry="18.20404052734375" x="0"
-        y="0" width="112.64" height="36.408">
-      </rect>
-    </svg>
-    <div class="CLEAR_ALL_FILTERS_A0_Text_39_Class">
-      <span>CONFIRMAR</span>
-    </div>
-  </div>
-  <div class="Clear_All_Filters_A0_Group_44_Class">
-    <svg class="Rectangle_A0_Rectangle_25">
-      <rect fill="rgba(247,155,42,1)" class="Rectangle_A0_Rectangle_25_Class" rx="18.20404052734375" ry="18.20404052734375" x="0"
-        y="0" width="112.64" height="36.408">
-      </rect>
-    </svg>
-    <div class="CLEAR_ALL_FILTERS_A0_Text_40_Class">
-      <span>CONFIRMAR</span>
-    </div>
-  </div>
-  <div class="Clear_All_Filters_A0_Group_45_Class">
-    <svg class="Rectangle_A0_Rectangle_26">
-      <rect fill="rgba(247,155,42,1)" class="Rectangle_A0_Rectangle_26_Class" rx="18.20404052734375" ry="18.20404052734375" x="0"
-        y="0" width="112.64" height="36.408">
-      </rect>
-    </svg>
-    <div class="CLEAR_ALL_FILTERS_A0_Text_41_Class">
-      <span>CONFIRMAR</span>
-    </div>
-  </div>
+
   <div class="Pagination_Class">
     <svg class="Round_Rectangle">
       <rect fill="rgba(245,246,247,1)" class="Round_Rectangle_Class" rx="19.200439453125" ry="19.200439453125" x="0" y="0" width="341.768"
@@ -457,78 +317,14 @@
       <span style="color:rgba(160,154,154,1);letter-spacing:2.2222222900390625px;">0</span>
     </div>
   </div>
-  <div class="Selection Control / Checkbox / Off / Disabled Selection_Control___Checkbox___Class">
-    <svg class="Selection_Control___Checkbox___A0_Path_13" viewBox="6 -625 24.249 24.249">
-      <path fill="rgba(116,116,116,1)" class="Selection_Control___Checkbox___A0_Path_13_Class" d="M 27.55482292175293 -622.3056030273438 L 27.55482292175293 -603.4451293945312 L 8.694353103637695 -603.4451293945312 L 8.694353103637695 -622.3056030273438 L 27.55482292175293 -622.3056030273438 Z M 27.55482292175293 -625 L 8.694353103637695 -625 C 7.212459564208984 -625 6 -623.7874755859375 6 -622.3056030273438 L 6 -603.4451293945312 C 6 -601.9633178710938 7.212459564208984 -600.7507934570312 8.694353103637695 -600.7507934570312 L 27.55482292175293 -600.7507934570312 C 29.03671646118164 -600.7507934570312 30.24917411804199 -601.9633178710938 30.24917411804199 -603.4451293945312 L 30.24917411804199 -622.3056030273438 C 30.24917411804199 -623.7874755859375 29.03671646118164 -625 27.55482292175293 -625 Z">
-      </path>
-    </svg>
-  </div>
-  <svg class="Selection_Control___Checkbox___A0_Path_14" viewBox="6 -625 24.249 24.249">
-    <path fill="rgba(116,116,116,1)" class="Selection_Control___Checkbox___A0_Path_14_Class" d="M 27.55482292175293 -622.3056030273438 L 27.55482292175293 -603.4451293945312 L 8.694353103637695 -603.4451293945312 L 8.694353103637695 -622.3056030273438 L 27.55482292175293 -622.3056030273438 Z M 27.55482292175293 -625 L 8.694353103637695 -625 C 7.212459564208984 -625 6 -623.7874755859375 6 -622.3056030273438 L 6 -603.4451293945312 C 6 -601.9633178710938 7.212459564208984 -600.7507934570312 8.694353103637695 -600.7507934570312 L 27.55482292175293 -600.7507934570312 C 29.03671646118164 -600.7507934570312 30.24917411804199 -601.9633178710938 30.24917411804199 -603.4451293945312 L 30.24917411804199 -622.3056030273438 C 30.24917411804199 -623.7874755859375 29.03671646118164 -625 27.55482292175293 -625 Z">
-    </path>
-  </svg>
-  <svg class="Selection_Control___Checkbox___A0_Path_15" viewBox="6 -625 24.249 24.249">
-    <path fill="rgba(116,116,116,1)" class="Selection_Control___Checkbox___A0_Path_15_Class" d="M 27.55482292175293 -622.3056030273438 L 27.55482292175293 -603.4451293945312 L 8.694353103637695 -603.4451293945312 L 8.694353103637695 -622.3056030273438 L 27.55482292175293 -622.3056030273438 Z M 27.55482292175293 -625 L 8.694353103637695 -625 C 7.212459564208984 -625 6 -623.7874755859375 6 -622.3056030273438 L 6 -603.4451293945312 C 6 -601.9633178710938 7.212459564208984 -600.7507934570312 8.694353103637695 -600.7507934570312 L 27.55482292175293 -600.7507934570312 C 29.03671646118164 -600.7507934570312 30.24917411804199 -601.9633178710938 30.24917411804199 -603.4451293945312 L 30.24917411804199 -622.3056030273438 C 30.24917411804199 -623.7874755859375 29.03671646118164 -625 27.55482292175293 -625 Z">
-    </path>
-  </svg>
-  <svg class="Selection_Control___Checkbox___A0_Path_16" viewBox="6 -625 24.249 24.249">
-    <path fill="rgba(116,116,116,1)" class="Selection_Control___Checkbox___A0_Path_16_Class" d="M 27.55482292175293 -622.3056030273438 L 27.55482292175293 -603.4451293945312 L 8.694353103637695 -603.4451293945312 L 8.694353103637695 -622.3056030273438 L 27.55482292175293 -622.3056030273438 Z M 27.55482292175293 -625 L 8.694353103637695 -625 C 7.212459564208984 -625 6 -623.7874755859375 6 -622.3056030273438 L 6 -603.4451293945312 C 6 -601.9633178710938 7.212459564208984 -600.7507934570312 8.694353103637695 -600.7507934570312 L 27.55482292175293 -600.7507934570312 C 29.03671646118164 -600.7507934570312 30.24917411804199 -601.9633178710938 30.24917411804199 -603.4451293945312 L 30.24917411804199 -622.3056030273438 C 30.24917411804199 -623.7874755859375 29.03671646118164 -625 27.55482292175293 -625 Z">
-    </path>
-  </svg>
+
   <div class="ID4_Pedidos_Class">
-    <span>4 Pedidos</span>
+    <span>{{orderList?.length}} Pedidos</span>
   </div>
   <div class="Domingo__20_de_outubro_de_2019_Class">
     <span>Domingo, 20 de outubro de 2019</span>
   </div>
-  <div class="Group_357_Class">
-    <svg viewBox="0 0 6.279 0.622" class="Line_8">
-      <path fill="transparent" stroke="rgba(65,65,65,1)" stroke-width="2px" stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="4"
-        shape-rendering="auto" class="Line_8_Class" d="M 0 0 L 6.279195785522461 0.6224005222320557">
-      </path>
-    </svg>
-    <svg viewBox="0 0 6.279 2" class="Line_9">
-      <path fill="transparent" stroke="rgba(65,65,65,1)" stroke-width="2px" stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="4"
-        shape-rendering="auto" class="Line_9_Class" d="M 0 0.6224015951156616 L 6.279194831848145 0">
-      </path>
-    </svg>
-  </div>
-  <div class="Group_358_Class">
-    <svg viewBox="0 0 6.279 0.622" class="Line_8_A0_Line_5">
-      <path fill="transparent" stroke="rgba(65,65,65,1)" stroke-width="2px" stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="4"
-        shape-rendering="auto" class="Line_8_A0_Line_5_Class" d="M 0 0 L 6.279195785522461 0.6224005222320557">
-      </path>
-    </svg>
-    <svg viewBox="0 0 6.279 2" class="Line_9_A0_Line_6">
-      <path fill="transparent" stroke="rgba(65,65,65,1)" stroke-width="2px" stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="4"
-        shape-rendering="auto" class="Line_9_A0_Line_6_Class" d="M 0 0.6224015951156616 L 6.279194831848145 0">
-      </path>
-    </svg>
-  </div>
-  <div class="Group_359_Class">
-    <svg viewBox="0 0 6.279 0.622" class="Line_8_A0_Line_7">
-      <path fill="transparent" stroke="rgba(65,65,65,1)" stroke-width="2px" stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="4"
-        shape-rendering="auto" class="Line_8_A0_Line_7_Class" d="M 0 0 L 6.279195785522461 0.6224005222320557">
-      </path>
-    </svg>
-    <svg viewBox="0 0 6.279 2" class="Line_9_A0_Line_8">
-      <path fill="transparent" stroke="rgba(65,65,65,1)" stroke-width="2px" stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="4"
-        shape-rendering="auto" class="Line_9_A0_Line_8_Class" d="M 0 0.6224015951156616 L 6.279194831848145 0">
-      </path>
-    </svg>
-  </div>
-  <div class="Group_360_Class">
-    <svg viewBox="0 0 6.279 0.622" class="Line_8_A0_Line_9">
-      <path fill="transparent" stroke="rgba(65,65,65,1)" stroke-width="2px" stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="4"
-        shape-rendering="auto" class="Line_8_A0_Line_9_Class" d="M 0 0 L 6.279195785522461 0.6224005222320557">
-      </path>
-    </svg>
-    <svg viewBox="0 0 6.279 2" class="Line_9_A0_Line_10">
-      <path fill="transparent" stroke="rgba(65,65,65,1)" stroke-width="2px" stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="4"
-        shape-rendering="auto" class="Line_9_A0_Line_10_Class" d="M 0 0.6224015951156616 L 6.279194831848145 0">
-      </path>
-    </svg>
-  </div>
+
   <div class="Group_356_Class">
     <svg class="Rectangle_612">
       <rect fill="rgba(247,155,42,0.149)" class="Rectangle_612_Class" rx="0" ry="0" x="0" y="0" width="280" height="40">
@@ -540,20 +336,9 @@
           <stop offset="0" stop-color="#f7aa2f" stop-opacity="1"></stop>
           <stop offset="1" stop-color="#f78523" stop-opacity="1"></stop>
         </linearGradient>
-        <rect fill="url('../assets/LinearGradientFill1')" class="Rectangle_A0_Rectangle_29_Class" rx="2.5" ry="2.5" x="0" y="0" width="5" height="40">
+        <rect fill="url('../assets/LinearGradientFill1')" class="Rectangle_A0_Rectangle_29_Class" rx="2.5" ry="2.5" x="0" y="0" width="5"
+          height="40">
         </rect>
       </svg>
     </div>
-  </div>
-  <div class="Group_373_Class">
-    <svg viewBox="0 0 6.279 0.622" class="Line_8_A0_Line_11">
-      <path fill="transparent" stroke="rgba(65,65,65,1)" stroke-width="2px" stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="4"
-        shape-rendering="auto" class="Line_8_A0_Line_11_Class" d="M 0 0 L 6.279195785522461 0.6224005222320557">
-      </path>
-    </svg>
-    <svg viewBox="0 0 6.279 2" class="Line_9_A0_Line_12">
-      <path fill="transparent" stroke="rgba(65,65,65,1)" stroke-width="2px" stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="4"
-        shape-rendering="auto" class="Line_9_A0_Line_12_Class" d="M 0 0.6224015951156616 L 6.279194831848145 0">
-      </path>
-    </svg>
   </div>

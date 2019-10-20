@@ -1,0 +1,3225 @@
+.mediaViewInfo {
+    --web-view-name: Enviados;
+    --web-view-id: Enviados;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Enviados;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.Enviados_Class {
+    position: absolute;
+    box-sizing: border-box;
+    background: #E5E5E5;
+    width: 1920px;
+    height: 1080px;
+    background-color: rgba(250,250,250,1);
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    --web-view-name: Enviados;
+    --web-view-id: Enviados;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-enable-deep-linking: true;
+}
+.Rectangle_609_Class {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+}
+.Rectangle_609 {
+    position: absolute;
+    overflow: visible;
+    width: 1658px;
+    height: 90px;
+    left: 280px;
+    top: 0px;
+}
+.Group_1_Class {
+    position: absolute;
+    width: 764px;
+    height: 35px;
+    left: 298px;
+    top: 19px;
+    overflow: visible;
+}
+.Rectangle_608 {
+    position: absolute;
+    overflow: visible;
+    width: 725px;
+    height: 35px;
+    left: 39px;
+    top: 0px;
+}
+.Icon___Search___Two_toned_Class {
+    position: absolute;
+    width: 74.49px;
+    height: 24px;
+    left: 0px;
+    top: 5px;
+    overflow: visible;
+}
+.Box {
+    position: absolute;
+    overflow: visible;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: 0px;
+}
+.Path_402 {
+    overflow: visible;
+    position: absolute;
+    top: 3px;
+    left: 57px;
+    width: 17.49px;
+    height: 17.491px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2111_Class {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+}
+.Path_2111 {
+    overflow: visible;
+    position: absolute;
+    top: 1080px;
+    left: 0px;
+    width: 329px;
+    height: 18px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.User_Class {
+    position: absolute;
+    width: 193.114px;
+    height: 50px;
+    left: 1694px;
+    top: 11px;
+    overflow: visible;
+}
+.Group_23_Class {
+    position: absolute;
+    width: 8.614px;
+    height: 4.329px;
+    left: 184.5px;
+    top: 24px;
+    overflow: visible;
+}
+.Line_6 {
+    position: absolute;
+    top: 3.061px;
+    left: 0px;
+    width: 9.122px;
+    height: 3px;
+    transform: rotate(-45deg);
+    overflow: visible;
+}
+.Line_7 {
+    position: absolute;
+    top: 3.061px;
+    left: 0px;
+    width: 9.122px;
+    height: 3px;
+    transform: rotate(45deg);
+    overflow: visible;
+}
+.IMG_20180429_114059 {
+    position: absolute;
+    overflow: visible;
+    width: 50px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+}
+.Tamyres_Freitas_Class {
+    position: absolute;
+    left: 61px;
+    top: 15px;
+    overflow: visible;
+    width: 115px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -24.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.Vertical_Menu_Class {
+    position: absolute;
+    width: 280.25px;
+    height: 1080px;
+    left: 0px;
+    top: 0.5px;
+    overflow: visible;
+}
+.Group_335_Class {
+    position: absolute;
+    width: 280px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Rectangle_Class {
+    filter: drop-shadow(0px 2px 10px rgba(0, 0, 0, 0.169));
+}
+.Rectangle {
+    position: absolute;
+    overflow: visible;
+    width: 310px;
+    height: 1110px;
+    left: 0px;
+    top: 0px;
+}
+.Path {
+    overflow: visible;
+    position: absolute;
+    top: 126.794px;
+    left: 278.5px;
+    width: 1.75px;
+    height: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Dashboard_Analytics_Class {
+    position: absolute;
+    left: 26px;
+    top: 158.5px;
+    overflow: visible;
+    width: 181px;
+    white-space: nowrap;
+    line-height: 40px;
+    margin-top: -12px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(44,44,44,1);
+}
+.APPS_Class {
+    position: absolute;
+    left: 28px;
+    top: 112.093px;
+    overflow: hidden;
+    width: 89px;
+    height: 36px;
+    line-height: 36px;
+    margin-top: -10px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(153,153,153,1);
+}
+.Group_340_Class {
+    position: absolute;
+    width: 231.459px;
+    height: 258.923px;
+    left: 28px;
+    top: 394.5px;
+    overflow: visible;
+}
+.UI_Elements_Class {
+    position: absolute;
+    width: 231.459px;
+    height: 214.272px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 84px;
+    height: 7.021px;
+    left: 224.438px;
+    top: 36.957px;
+    overflow: visible;
+}
+.right_arrow_background {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 2px;
+    top: 74px;
+}
+.Path_A3_Path_4 {
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 5.021px;
+    height: 10px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.right_arrow_A3_Group_8_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 10px;
+    height: 5.021px;
+    left: 226.438px;
+    top: 185.272px;
+    overflow: visible;
+}
+.right_arrow_background_A3_Rectangle_6 {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 0px;
+    top: 0px;
+}
+.Group_336_A3_Group_23_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: -2018px;
+    top: -673px;
+    overflow: visible;
+}
+.chevron_down_A3_Group_24_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_A3_Group_28_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Group_337_Class {
+    position: absolute;
+    width: 5.021px;
+    height: 98.634px;
+    left: 226.438px;
+    top: 115.638px;
+    overflow: visible;
+}
+.chevron_down_A3_Group_13_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 10px;
+    height: 5.021px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_A3_Group_14_Class {
+    position: absolute;
+    width: 10px;
+    height: 5.021px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_background_A3_Rectangle_7 {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 0px;
+    top: 0px;
+}
+.Path_A3_Path_5 {
+    overflow: visible;
+    position: absolute;
+    top: 88.634px;
+    left: 0px;
+    width: 5.021px;
+    height: 10px;
+    transform: rotate(-90deg);
+}
+.Group_338_A3_Group_26_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: -2018px;
+    top: -673px;
+    overflow: visible;
+}
+.chevron_down_A3_Group_27_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_A3_Group_28_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Group_339_Class {
+    position: absolute;
+    width: 5.021px;
+    height: 168.215px;
+    left: 226.438px;
+    top: 36.423px;
+    overflow: visible;
+}
+.Path_A3_Path_6 {
+    overflow: visible;
+    position: absolute;
+    top: 42.5px;
+    left: 0px;
+    width: 5.021px;
+    height: 10px;
+    transform: rotate(-90deg);
+}
+.right_arrow_background_A3_Rectangle_8 {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 0px;
+    top: 0px;
+    transform: rotate(-90deg);
+    transform-origin: left;
+}
+.Path_A3_Path_7 {
+    overflow: visible;
+    position: absolute;
+    top: 125.5px;
+    left: 0px;
+    width: 5.021px;
+    height: 10px;
+    transform: rotate(-90deg);
+}
+.Path_A3_Path_8 {
+    overflow: visible;
+    position: absolute;
+    top: 83.5px;
+    left: 0px;
+    width: 5.021px;
+    height: 10px;
+    transform: rotate(-90deg);
+}
+.right_arrow_background_A3_Rectangle_9 {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 0px;
+    top: 158.215px;
+    transform: rotate(-90deg);
+    transform-origin: left;
+}
+.UI_ELEMENTS_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+    width: 101.012px;
+    height: 36px;
+    line-height: 36px;
+    margin-top: -10px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(153,153,153,1);
+}
+.Dashboard_Analytics_A3_Text_5_Class {
+    position: absolute;
+    left: 17px;
+    top: 34.923px;
+    overflow: visible;
+    width: 107px;
+    white-space: nowrap;
+    line-height: 40px;
+    margin-top: -12px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(52,52,52,1);
+}
+.Group_341_Class {
+    position: absolute;
+    width: 231.459px;
+    height: 195.272px;
+    left: 28px;
+    top: 672.5px;
+    overflow: visible;
+}
+.UI_Elements_A3_Group_20_Class {
+    position: absolute;
+    width: 231.459px;
+    height: 195.272px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_A3_Group_21_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 10px;
+    height: 5.021px;
+    left: 226.438px;
+    top: 110.957px;
+    overflow: visible;
+}
+.right_arrow_background_A3_Rectangle_10 {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 0px;
+    top: 0px;
+}
+.right_arrow_A3_Group_22_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 10px;
+    height: 5.021px;
+    left: 226.438px;
+    top: 185.272px;
+    overflow: visible;
+}
+.right_arrow_background_A3_Rectangle_11 {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 0px;
+    top: 0px;
+}
+.Group_336_A3_Group_23_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: -2018px;
+    top: -673px;
+    overflow: visible;
+}
+.chevron_down_A3_Group_24_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_A3_Group_28_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Group_338_A3_Group_26_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: -2018px;
+    top: -673px;
+    overflow: visible;
+}
+.chevron_down_A3_Group_27_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_A3_Group_28_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.UI_ELEMENTS_A3_Text_6_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+    width: 101.012px;
+    height: 36px;
+    line-height: 36px;
+    margin-top: -10px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(153,153,153,1);
+}
+.Dashboard_Analytics_A3_Text_7_Class {
+    position: absolute;
+    left: 17px;
+    top: 34.923px;
+    overflow: visible;
+    width: 107px;
+    white-space: nowrap;
+    line-height: 40px;
+    margin-top: -12px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(52,52,52,1);
+}
+.Bread_Crumbs_Class {
+    position: absolute;
+    width: 216px;
+    height: 30.528px;
+    left: 342px;
+    top: 130.381px;
+    overflow: visible;
+}
+.Card_Actions_Class {
+    position: absolute;
+    left: 0px;
+    top: 1.119px;
+    overflow: visible;
+    width: 98px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(44,44,44,1);
+}
+.Path_2 {
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 112.5px;
+    width: 1px;
+    height: 30.528px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.eCommerce_Class {
+    position: absolute;
+    left: 141px;
+    top: 5.119px;
+    overflow: visible;
+    width: 76px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(247,155,42,1);
+}
+.Selection_Control___Switch___O_Class {
+    position: absolute;
+    width: 45px;
+    height: 40px;
+    left: 1787px;
+    top: 126px;
+    overflow: visible;
+}
+.Rectangle_585_Class {
+    opacity: 0.4;
+}
+.Rectangle_585 {
+    position: absolute;
+    overflow: visible;
+    width: 34px;
+    height: 14px;
+    left: 0px;
+    top: 13px;
+}
+.Ellipse_63_Class {
+    filter: drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.212));
+}
+.Ellipse_63 {
+    position: absolute;
+    overflow: visible;
+    width: 29px;
+    height: 29px;
+    left: 15px;
+    top: 10px;
+}
+.Ellipse_62_Class {
+    opacity: 0.15;
+}
+.Ellipse_62 {
+    position: absolute;
+    overflow: visible;
+    width: 40px;
+    height: 40px;
+    left: 5px;
+    top: 0px;
+}
+.Card_Actions_A3_Text_10_Class {
+    position: absolute;
+    left: 1685px;
+    top: 137.5px;
+    overflow: visible;
+    width: 88px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(44,44,44,1);
+}
+.Pagination_Class {
+    position: absolute;
+    width: 451.21px;
+    height: 38.401px;
+    left: 1380.79px;
+    top: 1003.099px;
+    overflow: visible;
+}
+.Round_Rectangle {
+    position: absolute;
+    overflow: visible;
+    width: 341.768px;
+    height: 38.401px;
+    left: 54.721px;
+    top: 0px;
+}
+.Left_Class {
+    position: absolute;
+    width: 38.401px;
+    height: 38.401px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Oval {
+    position: absolute;
+    overflow: visible;
+    width: 38.401px;
+    height: 38.401px;
+    left: 0px;
+    top: 0px;
+}
+.chevron_left_Class {
+    position: absolute;
+    width: 5.76px;
+    height: 11.52px;
+    left: 16.32px;
+    top: 12.48px;
+    overflow: visible;
+}
+.Path_A3_Path_10 {
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 8.174px;
+    height: 14.349px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Right_Class {
+    position: absolute;
+    width: 38.401px;
+    height: 38.401px;
+    left: 412.81px;
+    top: 0px;
+    overflow: visible;
+}
+.Oval_A3_Ellipse_6 {
+    position: absolute;
+    overflow: visible;
+    width: 38.401px;
+    height: 38.401px;
+    left: 0px;
+    top: 0px;
+}
+.chevron_right_Class {
+    transform: rotate(180deg);
+    transform-origin: left;
+    position: absolute;
+    width: 5.76px;
+    height: 11.52px;
+    left: 16.32px;
+    top: 13.44px;
+    overflow: visible;
+}
+.Path_A3_Path_11 {
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 8.174px;
+    height: 14.349px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Oval_A3_Ellipse_7 {
+    position: absolute;
+    overflow: visible;
+    width: 38.401px;
+    height: 38.401px;
+    left: 55.085px;
+    top: 0px;
+}
+.ID1_2_3_4_5_6_7_8_9_10_Class {
+    position: absolute;
+    left: 70.962px;
+    top: 8.64px;
+    overflow: visible;
+    width: 311px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248,244,244,1);
+    letter-spacing: 2.444444427490234px;
+}
+.ID8_Pedidos_Class {
+    position: absolute;
+    left: 342px;
+    top: 232px;
+    overflow: visible;
+    width: 90px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(52,52,52,1);
+}
+.Domingo__20_de_outubro_de_2019_Class {
+    position: absolute;
+    left: 341px;
+    top: 170px;
+    overflow: visible;
+    width: 262px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(165,161,161,1);
+}
+.Group_365_Class {
+    position: absolute;
+    width: 1962px;
+    height: 709.929px;
+    left: 342px;
+    top: 268.522px;
+    overflow: visible;
+}
+.Table_Class {
+    position: absolute;
+    width: 1962px;
+    height: 709.929px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Path_10_Class {
+    filter: drop-shadow(0px 2px 8px rgba(0, 0, 0, 0.161));
+}
+.Path_10 {
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1510px;
+    height: 733.929px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_92 {
+    position: absolute;
+    overflow: visible;
+    width: 1486px;
+    height: 109px;
+    left: 0px;
+    top: 59.478px;
+}
+.Rectangle_94 {
+    position: absolute;
+    overflow: visible;
+    width: 1486px;
+    height: 109px;
+    left: 0px;
+    top: 277.478px;
+}
+.Rectangle_613 {
+    position: absolute;
+    overflow: visible;
+    width: 1486px;
+    height: 109px;
+    left: 0px;
+    top: 506.478px;
+}
+.Group_345_Class {
+    position: absolute;
+    width: 254px;
+    height: 29px;
+    left: 1708px;
+    top: 210.478px;
+    overflow: visible;
+}
+.ID21_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 29px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.ID1_345_Class {
+    position: absolute;
+    left: 190px;
+    top: 0px;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.Group_347_Class {
+    position: absolute;
+    width: 254px;
+    height: 29px;
+    left: 1708px;
+    top: 322.478px;
+    overflow: visible;
+}
+.ID21_A3_Text_16_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 29px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.ID1_345_A3_Text_17_Class {
+    position: absolute;
+    left: 190px;
+    top: 0px;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.Repeat_Grid_11_Class {
+    position: absolute;
+    width: 875px;
+    height: 632px;
+    left: 107px;
+    top: 77.478px;
+    overflow: hidden;
+}
+.Repeat_Grid_11_0_Class {
+    position: absolute;
+    width: 859px;
+    height: 878px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Group_370_Class {
+    position: absolute;
+    width: 817px;
+    height: 429px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Repeat_Grid_5_Class {
+    position: absolute;
+    width: 90px;
+    height: 429px;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+}
+.Repeat_Grid_5_0_Class {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.download {
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+.Repeat_Grid_5_1_Class {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 108px;
+    overflow: visible;
+}
+.download_A3_Rectangle_19 {
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+.Repeat_Grid_5_2_Class {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 216px;
+    overflow: visible;
+}
+.br_com_eguana_parmeWebStore {
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+.Repeat_Grid_5_3_Class {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 324px;
+    overflow: visible;
+}
+.download__1_ {
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+.Group_342_Class {
+    position: absolute;
+    width: 64px;
+    height: 29px;
+    left: 753px;
+    top: 21px;
+    overflow: visible;
+}
+.ID13_10_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.Group_344_Class {
+    position: absolute;
+    width: 64px;
+    height: 29px;
+    left: 753px;
+    top: 131px;
+    overflow: visible;
+}
+.ID12_50_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.Group_346_Class {
+    position: absolute;
+    width: 64px;
+    height: 29px;
+    left: 753px;
+    top: 242px;
+    overflow: visible;
+}
+.ID12_13_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.Group_348_Class {
+    position: absolute;
+    width: 64px;
+    height: 29px;
+    left: 753px;
+    top: 357px;
+    overflow: visible;
+}
+.ID13_00_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.Group_371_Class {
+    position: absolute;
+    width: 859px;
+    height: 429px;
+    left: 0px;
+    top: 449px;
+    overflow: visible;
+}
+.Repeat_Grid_5_A3_RepeatGrid_3_Class {
+    position: absolute;
+    width: 90px;
+    height: 429px;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+}
+.Repeat_Grid_5_A3_RepeatGrid_3_0_Class {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.download_A3_Rectangle_25 {
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+.Repeat_Grid_5_A3_RepeatGrid_3_1_Class {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 108px;
+    overflow: visible;
+}
+.download_A3_Rectangle_27 {
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+.Repeat_Grid_5_A3_RepeatGrid_3_2_Class {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 216px;
+    overflow: visible;
+}
+.br_com_eguana_parmeWebStore_A3_Rectangle_29 {
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+.Repeat_Grid_5_A3_RepeatGrid_3_3_Class {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 324px;
+    overflow: visible;
+}
+.download__1__A3_Rectangle_31 {
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+.Group_342_A3_Group_54_Class {
+    position: absolute;
+    width: 64px;
+    height: 29px;
+    left: 753px;
+    top: 21px;
+    overflow: visible;
+}
+.ID13_10_A3_Text_22_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.Group_344_A3_Group_55_Class {
+    position: absolute;
+    width: 64px;
+    height: 29px;
+    left: 753px;
+    top: 131px;
+    overflow: visible;
+}
+.ID12_50_A3_Text_23_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.Group_346_A3_Group_56_Class {
+    position: absolute;
+    width: 652px;
+    height: 29px;
+    left: 207px;
+    top: 242px;
+    overflow: visible;
+}
+._1x__Churrasco_Carioca_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 251px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.ID12_13_A3_Text_25_Class {
+    position: absolute;
+    left: 588px;
+    top: 0px;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.Group_348_A3_Group_57_Class {
+    position: absolute;
+    width: 652px;
+    height: 29px;
+    left: 207px;
+    top: 357px;
+    overflow: visible;
+}
+._1x__Escalope_de_Carne_c__Mass_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 359px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.ID13_00_A3_Text_27_Class {
+    position: absolute;
+    left: 588px;
+    top: 0px;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.Group_349_Class {
+    position: absolute;
+    width: 254px;
+    height: 29px;
+    left: 1708px;
+    top: 434.478px;
+    overflow: visible;
+}
+.ID21_A3_Text_28_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 29px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.ID1_345_A3_Text_29_Class {
+    position: absolute;
+    left: 190px;
+    top: 0px;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.Canal_Class {
+    position: absolute;
+    left: 112px;
+    top: 21.478px;
+    overflow: visible;
+    width: 45px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(112,112,112,1);
+}
+.Sa_da_Class {
+    position: absolute;
+    left: 861px;
+    top: 20.478px;
+    overflow: hidden;
+    width: 78px;
+    height: 24px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(112,112,112,1);
+}
+.Previs_o_de_entrega_Class {
+    position: absolute;
+    left: 1228px;
+    top: 20.478px;
+    overflow: hidden;
+    width: 171px;
+    height: 24px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(112,112,112,1);
+}
+.ID30_min_Class {
+    position: absolute;
+    left: 1228px;
+    top: 98.478px;
+    overflow: visible;
+    width: 77px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.ID40_min_Class {
+    position: absolute;
+    left: 1228px;
+    top: 210.478px;
+    overflow: visible;
+    width: 77px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.ID30_min_A3_Text_35_Class {
+    position: absolute;
+    left: 1228px;
+    top: 322.478px;
+    overflow: visible;
+    width: 77px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.ID50_min_Class {
+    position: absolute;
+    left: 1228px;
+    top: 434.478px;
+    overflow: visible;
+    width: 77px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.ID30_min_A3_Text_37_Class {
+    position: absolute;
+    left: 1228px;
+    top: 546.478px;
+    overflow: visible;
+    width: 77px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.ID40_min_A3_Text_38_Class {
+    position: absolute;
+    left: 1228px;
+    top: 658.478px;
+    overflow: visible;
+    width: 77px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.Selection_Control___Checkbox___Class {
+    position: absolute;
+    width: 24.249px;
+    height: 24.249px;
+    left: 40.751px;
+    top: 99.478px;
+    overflow: visible;
+}
+.Selection_Control___Checkbox___A3_Path_13_Class {
+    opacity: 0.7;
+}
+.Selection_Control___Checkbox___A3_Path_13 {
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 24.249px;
+    height: 24.249px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Selection_Control___Checkbox___A3_Path_14_Class {
+    opacity: 0.7;
+}
+.Selection_Control___Checkbox___A3_Path_14 {
+    overflow: visible;
+    position: absolute;
+    top: 208.478px;
+    left: 40.751px;
+    width: 24.249px;
+    height: 24.249px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Selection_Control___Checkbox___A3_Path_15_Class {
+    opacity: 0.7;
+}
+.Selection_Control___Checkbox___A3_Path_15 {
+    overflow: visible;
+    position: absolute;
+    top: 318.478px;
+    left: 40.751px;
+    width: 24.249px;
+    height: 24.249px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Selection_Control___Checkbox___A3_Path_16_Class {
+    opacity: 0.7;
+}
+.Selection_Control___Checkbox___A3_Path_16 {
+    overflow: visible;
+    position: absolute;
+    top: 427.478px;
+    left: 40.751px;
+    width: 24.249px;
+    height: 24.249px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Group_358_Class {
+    position: absolute;
+    width: 10px;
+    height: 4.88px;
+    left: 920.587px;
+    top: 31.478px;
+    overflow: visible;
+}
+.Line_8 {
+    position: absolute;
+    top: 3.14px;
+    left: 0px;
+    width: 8.279px;
+    height: 2.622px;
+    transform: rotate(-45deg);
+    overflow: visible;
+}
+.Line_9 {
+    position: absolute;
+    top: 3.14px;
+    left: 0px;
+    width: 8.279px;
+    height: 2px;
+    transform: rotate(45deg);
+    overflow: visible;
+}
+.Group_360_Class {
+    position: absolute;
+    width: 10px;
+    height: 4.88px;
+    left: 167.587px;
+    top: 31.478px;
+    overflow: visible;
+}
+.Line_8_A3_Line_5 {
+    position: absolute;
+    top: 3.14px;
+    left: 0px;
+    width: 8.279px;
+    height: 2.622px;
+    transform: rotate(-45deg);
+    overflow: visible;
+}
+.Line_9_A3_Line_6 {
+    position: absolute;
+    top: 3.14px;
+    left: 0px;
+    width: 8.279px;
+    height: 2px;
+    transform: rotate(45deg);
+    overflow: visible;
+}
+.Selection_Control___Checkbox___A3_Path_17_Class {
+    opacity: 0.7;
+}
+.Selection_Control___Checkbox___A3_Path_17 {
+    overflow: visible;
+    position: absolute;
+    top: 549.478px;
+    left: 40.751px;
+    width: 24.249px;
+    height: 24.249px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Selection_Control___Checkbox___A3_Path_18_Class {
+    opacity: 0.7;
+}
+.Selection_Control___Checkbox___A3_Path_18 {
+    overflow: visible;
+    position: absolute;
+    top: 653.478px;
+    left: 40.751px;
+    width: 24.249px;
+    height: 24.249px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Repeat_Grid_12_Class {
+    position: absolute;
+    width: 353px;
+    height: 689px;
+    left: 349px;
+    top: 20.478px;
+    overflow: hidden;
+}
+.Repeat_Grid_12_0_Class {
+    position: absolute;
+    width: 343px;
+    height: 350px;
+    left: 2px;
+    top: 81px;
+    overflow: visible;
+}
+.ID3216_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 49px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.ID2391_Class {
+    position: absolute;
+    left: 0px;
+    top: 104px;
+    overflow: visible;
+    width: 49px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.ID1293_Class {
+    position: absolute;
+    left: 0px;
+    top: 214px;
+    overflow: visible;
+    width: 49px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.ID4378_Class {
+    position: absolute;
+    left: 0px;
+    top: 326px;
+    overflow: visible;
+    width: 49px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.Jo_o_Gomes_Class {
+    position: absolute;
+    left: 168px;
+    top: 0px;
+    overflow: visible;
+    width: 113px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.Maria_Mendes_Class {
+    position: absolute;
+    left: 168px;
+    top: 104px;
+    overflow: visible;
+    width: 132px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.Ana_Couto_Pereira_Class {
+    position: absolute;
+    left: 168px;
+    top: 214px;
+    overflow: visible;
+    width: 169px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.J_lia_Andrade_Pires_Class {
+    position: absolute;
+    left: 168px;
+    top: 326px;
+    overflow: visible;
+    width: 176px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.Repeat_Grid_12_1_Class {
+    position: absolute;
+    width: 343px;
+    height: 350px;
+    left: 2px;
+    top: 532px;
+    overflow: visible;
+}
+.ID3216_A3_Text_47_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 49px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.ID2391_A3_Text_48_Class {
+    position: absolute;
+    left: 0px;
+    top: 104px;
+    overflow: visible;
+    width: 49px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.ID1293_A3_Text_49_Class {
+    position: absolute;
+    left: 0px;
+    top: 214px;
+    overflow: visible;
+    width: 49px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.ID4378_A3_Text_50_Class {
+    position: absolute;
+    left: 0px;
+    top: 326px;
+    overflow: visible;
+    width: 49px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.Jo_o_Gomes_A3_Text_51_Class {
+    position: absolute;
+    left: 168px;
+    top: 0px;
+    overflow: visible;
+    width: 113px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.Maria_Mendes_A3_Text_52_Class {
+    position: absolute;
+    left: 168px;
+    top: 104px;
+    overflow: visible;
+    width: 132px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.Ana_Couto_Pereira_A3_Text_53_Class {
+    position: absolute;
+    left: 168px;
+    top: 214px;
+    overflow: visible;
+    width: 169px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.J_lia_Andrade_Pires_A3_Text_54_Class {
+    position: absolute;
+    left: 168px;
+    top: 326px;
+    overflow: visible;
+    width: 176px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.Rectangle_615 {
+    position: absolute;
+    overflow: visible;
+    width: 1067px;
+    height: 112px;
+    left: 0px;
+    top: 167.478px;
+}
+.Group_356_Class {
+    position: absolute;
+    width: 280px;
+    height: 40px;
+    left: 0px;
+    top: 271px;
+    overflow: visible;
+}
+.Rectangle_612 {
+    position: absolute;
+    overflow: visible;
+    width: 280px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+}
+.Dashboard_Class {
+    position: absolute;
+    width: 5px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Rectangle_A3_Rectangle_35_Class {
+    filter: drop-shadow(-1px 1px 5px rgba(126, 114, 242, 0.58));
+}
+.Rectangle_A3_Rectangle_35 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+}
+.Group_372_Class {
+    position: absolute;
+    width: 619.789px;
+    height: 1080px;
+    left: 1396.15px;
+    top: 0.5px;
+    overflow: visible;
+}
+.Rectangle_A3_Rectangle_36_Class {
+    filter: drop-shadow(0px 2px 10px rgba(0, 0, 0, 0.169));
+}
+.Rectangle_A3_Rectangle_36 {
+    position: absolute;
+    overflow: visible;
+    width: 649.789px;
+    height: 1110px;
+    left: 0px;
+    top: 0px;
+}
+.Bread_Crumbs_A3_Group_66_Class {
+    position: absolute;
+    width: 237px;
+    height: 29.409px;
+    left: 1440px;
+    top: 47.5px;
+    overflow: visible;
+}
+.Card_Actions_A3_Text_55_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 238px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(44,44,44,1);
+}
+.Path_2_A3_Path_19 {
+    overflow: visible;
+    position: absolute;
+    top: 29.409px;
+    left: 112.5px;
+    width: 0px;
+    height: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.bg_map_Class {
+    position: absolute;
+    width: 832px;
+    height: 345px;
+    left: 1440px;
+    top: 154px;
+    overflow: visible;
+}
+.button_fab_gps_Class {
+    position: absolute;
+    width: 91px;
+    height: 52px;
+    left: 1757px;
+    top: 424px;
+    overflow: visible;
+}
+.bg_A3_Rectangle_38_Class {
+    filter: drop-shadow(0px 12px 16px rgba(69, 91, 99, 0.102));
+}
+.bg_A3_Rectangle_38 {
+    position: absolute;
+    overflow: visible;
+    width: 139px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+}
+.map_content_Class {
+    position: absolute;
+    width: 216.565px;
+    height: 258.824px;
+    left: 1537.781px;
+    top: 206.176px;
+    overflow: visible;
+}
+.lines_Class {
+    position: absolute;
+    width: 188.165px;
+    height: 252.163px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.line_Class {
+    transform: rotate(34deg);
+    transform-origin: left;
+    position: absolute;
+    width: 138px;
+    height: 9px;
+    left: 6.725px;
+    top: 83px;
+    overflow: hidden;
+}
+.line_0_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 1.677px;
+    top: 0px;
+    overflow: visible;
+}
+.Rectangle_13 {
+    position: absolute;
+    overflow: visible;
+    width: 8.329px;
+    height: 8.329px;
+    left: 0px;
+    top: 0px;
+}
+.line_1_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 13.284px;
+    top: 7.829px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_40 {
+    position: absolute;
+    overflow: visible;
+    width: 8.329px;
+    height: 8.329px;
+    left: 0px;
+    top: 0px;
+}
+.line_2_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 24.891px;
+    top: 15.657px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_41 {
+    position: absolute;
+    overflow: visible;
+    width: 8.329px;
+    height: 8.329px;
+    left: 0px;
+    top: 0px;
+}
+.line_3_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 36.497px;
+    top: 23.486px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_42 {
+    position: absolute;
+    overflow: visible;
+    width: 8.329px;
+    height: 8.329px;
+    left: 0px;
+    top: 0px;
+}
+.line_4_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 48.104px;
+    top: 31.315px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_43 {
+    position: absolute;
+    overflow: visible;
+    width: 8.329px;
+    height: 8.329px;
+    left: 0px;
+    top: 0px;
+}
+.line_5_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 59.71px;
+    top: 39.143px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_44 {
+    position: absolute;
+    overflow: visible;
+    width: 8.329px;
+    height: 8.329px;
+    left: 0px;
+    top: 0px;
+}
+.line_6_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 71.317px;
+    top: 46.972px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_45 {
+    position: absolute;
+    overflow: visible;
+    width: 8.329px;
+    height: 8.329px;
+    left: 0px;
+    top: 0px;
+}
+.line_7_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 82.923px;
+    top: 54.801px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_46 {
+    position: absolute;
+    overflow: visible;
+    width: 8.329px;
+    height: 8.329px;
+    left: 0px;
+    top: 0px;
+}
+.line_8_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 94.53px;
+    top: 62.63px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_47 {
+    position: absolute;
+    overflow: visible;
+    width: 8.329px;
+    height: 8.329px;
+    left: 0px;
+    top: 0px;
+}
+.line_9_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 106.136px;
+    top: 70.458px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_48 {
+    position: absolute;
+    overflow: visible;
+    width: 8.329px;
+    height: 8.329px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_6_Class {
+    transform: rotate(123deg);
+    transform-origin: left;
+    position: absolute;
+    width: 102px;
+    height: 9px;
+    left: 61.727px;
+    top: 161.716px;
+    overflow: hidden;
+}
+.line_A3_RepeatGrid_6_0_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 54.802px;
+    top: 1.634px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_49 {
+    position: absolute;
+    overflow: visible;
+    width: 8.3px;
+    height: 8.3px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_6_1_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 47.177px;
+    top: 13.375px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_50 {
+    position: absolute;
+    overflow: visible;
+    width: 8.3px;
+    height: 8.3px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_6_2_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 39.552px;
+    top: 25.117px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_51 {
+    position: absolute;
+    overflow: visible;
+    width: 8.3px;
+    height: 8.3px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_6_3_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 31.927px;
+    top: 36.858px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_52 {
+    position: absolute;
+    overflow: visible;
+    width: 8.3px;
+    height: 8.3px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_6_4_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 24.302px;
+    top: 48.599px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_53 {
+    position: absolute;
+    overflow: visible;
+    width: 8.3px;
+    height: 8.3px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_6_5_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 16.677px;
+    top: 60.341px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_54 {
+    position: absolute;
+    overflow: visible;
+    width: 8.3px;
+    height: 8.3px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_6_6_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 9.052px;
+    top: 72.082px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_55 {
+    position: absolute;
+    overflow: visible;
+    width: 8.3px;
+    height: 8.3px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_6_7_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 1.427px;
+    top: 83.824px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_56 {
+    position: absolute;
+    overflow: visible;
+    width: 8.3px;
+    height: 8.3px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_7_Class {
+    transform: rotate(34deg);
+    transform-origin: left;
+    position: absolute;
+    width: 138px;
+    height: 9px;
+    left: 68.725px;
+    top: 0px;
+    overflow: hidden;
+}
+.line_A3_RepeatGrid_7_0_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 1.677px;
+    top: 0px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_57 {
+    position: absolute;
+    overflow: visible;
+    width: 8.329px;
+    height: 8.329px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_7_1_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 13.284px;
+    top: 7.829px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_58 {
+    position: absolute;
+    overflow: visible;
+    width: 8.329px;
+    height: 8.329px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_7_2_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 24.891px;
+    top: 15.657px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_59 {
+    position: absolute;
+    overflow: visible;
+    width: 8.329px;
+    height: 8.329px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_7_3_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 36.497px;
+    top: 23.486px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_60 {
+    position: absolute;
+    overflow: visible;
+    width: 8.329px;
+    height: 8.329px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_7_4_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 48.104px;
+    top: 31.315px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_61 {
+    position: absolute;
+    overflow: visible;
+    width: 8.329px;
+    height: 8.329px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_7_5_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 59.71px;
+    top: 39.143px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_62 {
+    position: absolute;
+    overflow: visible;
+    width: 8.329px;
+    height: 8.329px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_7_6_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 71.317px;
+    top: 46.972px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_63 {
+    position: absolute;
+    overflow: visible;
+    width: 8.329px;
+    height: 8.329px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_7_7_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 82.923px;
+    top: 54.801px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_64 {
+    position: absolute;
+    overflow: visible;
+    width: 8.329px;
+    height: 8.329px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_7_8_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 94.53px;
+    top: 62.63px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_65 {
+    position: absolute;
+    overflow: visible;
+    width: 8.329px;
+    height: 8.329px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_7_9_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 106.136px;
+    top: 70.458px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_66 {
+    position: absolute;
+    overflow: visible;
+    width: 8.329px;
+    height: 8.329px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_8_Class {
+    transform: rotate(127deg);
+    transform-origin: left;
+    position: absolute;
+    width: 97px;
+    height: 9px;
+    left: 0px;
+    top: 0.501px;
+    overflow: hidden;
+}
+.line_A3_RepeatGrid_8_0_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 57.161px;
+    top: 1.805px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_67 {
+    position: absolute;
+    overflow: visible;
+    width: 8.403px;
+    height: 8.403px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_8_1_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 48.736px;
+    top: 12.986px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_68 {
+    position: absolute;
+    overflow: visible;
+    width: 8.403px;
+    height: 8.403px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_8_2_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 40.31px;
+    top: 24.167px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_69 {
+    position: absolute;
+    overflow: visible;
+    width: 8.403px;
+    height: 8.403px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_8_3_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 31.885px;
+    top: 35.348px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_70 {
+    position: absolute;
+    overflow: visible;
+    width: 8.403px;
+    height: 8.403px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_8_4_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 23.459px;
+    top: 46.529px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_71 {
+    position: absolute;
+    overflow: visible;
+    width: 8.403px;
+    height: 8.403px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_8_5_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 15.034px;
+    top: 57.71px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_72 {
+    position: absolute;
+    overflow: visible;
+    width: 8.403px;
+    height: 8.403px;
+    left: 0px;
+    top: 0px;
+}
+.line_A3_RepeatGrid_8_6_Class {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 6.609px;
+    top: 68.891px;
+    overflow: visible;
+}
+.Rectangle_13_A3_Rectangle_73 {
+    position: absolute;
+    overflow: visible;
+    width: 8.403px;
+    height: 8.403px;
+    left: 0px;
+    top: 0px;
+}
+.car_Class {
+    transform: rotate(-56deg);
+    transform-origin: left;
+    position: absolute;
+    width: 32.794px;
+    height: 54.126px;
+    left: 153.354px;
+    top: 55.067px;
+    overflow: visible;
+}
+.shadow_Class {
+    opacity: 0.251;
+}
+.shadow {
+    position: absolute;
+    overflow: visible;
+    width: 53.774px;
+    height: 47.567px;
+    left: 5.079px;
+    top: 9.888px;
+}
+.car_purple_Class {
+    position: absolute;
+    width: 24px;
+    height: 48px;
+    left: 4.918px;
+    top: 0px;
+    overflow: visible;
+}
+.Rectangle_73_Class {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.251));
+}
+.Rectangle_73 {
+    position: absolute;
+    overflow: visible;
+    width: 71.214px;
+    height: 64.738px;
+    left: 0px;
+    top: 0px;
+    transform: rotate(0deg);
+    transform-origin: left;
+}
+.Rectangle_74 {
+    position: absolute;
+    overflow: visible;
+    width: 36.055px;
+    height: 33.357px;
+    left: 11.067px;
+    top: 8.368px;
+    transform: rotate(0deg);
+    transform-origin: left;
+}
+.Rectangle_75 {
+    position: absolute;
+    overflow: visible;
+    width: 23.87px;
+    height: 23.33px;
+    left: 19.646px;
+    top: 15.059px;
+    transform: rotate(0deg);
+    transform-origin: left;
+}
+.map_avatar_Class {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 52.219px;
+    top: 230.824px;
+    overflow: visible;
+}
+.radar_Class {
+    opacity: 0.401;
+}
+.radar {
+    display: none;
+    overflow: visible;
+    position: absolute;
+    top: -43.815px;
+    left: -0.185px;
+    width: 72.371px;
+    height: 72px;
+    transform: rotate(-90deg);
+}
+.avatar_Class {
+    filter: drop-shadow(0px 2px 12px rgba(42, 46, 67, 0.071));
+}
+.avatar {
+    position: absolute;
+    overflow: visible;
+    width: 68px;
+    height: 68px;
+    left: 0px;
+    top: 0px;
+}
+.Place_Order_Class {
+    position: absolute;
+    width: 446px;
+    height: 160px;
+    left: 1440px;
+    top: 532.5px;
+    overflow: visible;
+}
+.Price_Details_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 58px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(44,44,44,1);
+}
+.Price_3_Item_Deliver_Class {
+    position: absolute;
+    left: 0px;
+    top: 43px;
+    overflow: hidden;
+    width: 204px;
+    height: 62px;
+    line-height: 20px;
+    margin-top: -2px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(44,44,44,1);
+}
+.Amount_Payable_Class {
+    position: absolute;
+    left: 0px;
+    top: 140px;
+    overflow: hidden;
+    width: 141px;
+    height: 20px;
+    line-height: 20px;
+    margin-top: -2px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(44,44,44,1);
+}
+._699_30_Class {
+    position: absolute;
+    left: 375px;
+    top: 140px;
+    overflow: hidden;
+    width: 72px;
+    height: 20px;
+    line-height: 20px;
+    margin-top: -2px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(44,44,44,1);
+}
+.Free_Class {
+    position: absolute;
+    left: 190px;
+    top: 43px;
+    overflow: hidden;
+    width: 257px;
+    height: 62px;
+    line-height: 20px;
+    margin-top: -2px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(44,44,44,1);
+}
+.Path_A3_Path_23 {
+    overflow: visible;
+    position: absolute;
+    top: 121.5px;
+    left: 0px;
+    width: 446px;
+    height: 1px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_614 {
+    position: absolute;
+    overflow: visible;
+    width: 440px;
+    height: 64px;
+    left: 1440px;
+    top: 978px;
+}
+.EMITIR_NOTA_FISCAL_Class {
+    position: absolute;
+    left: 1563px;
+    top: 1001px;
+    overflow: visible;
+    width: 173px;
+    white-space: nowrap;
+    line-height: 20px;
+    margin-top: -2px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(248,245,245,1);
+}
+.ID3_06_Class {
+    position: absolute;
+    left: 1778px;
+    top: 435px;
+    overflow: visible;
+    width: 52px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(44,44,44,1);
+}
+.Place_Order_A3_Group_107_Class {
+    position: absolute;
+    width: 235px;
+    height: 68px;
+    left: 1440px;
+    top: 869.5px;
+    overflow: visible;
+}
+.Price_Details_A3_Text_63_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 97px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(44,44,44,1);
+}
+.Price_3_Item_Deliver_A3_Text_64_Class {
+    position: absolute;
+    left: 0px;
+    top: 43px;
+    overflow: hidden;
+    width: 236px;
+    height: 25px;
+    line-height: 20px;
+    margin-top: -2px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(44,44,44,1);
+}
+.Place_Order_A3_Group_108_Class {
+    position: absolute;
+    width: 220px;
+    height: 105px;
+    left: 1440px;
+    top: 748.5px;
+    overflow: visible;
+}
+.Price_Details_A3_Text_65_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 221px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(44,44,44,1);
+}
+.Price_3_Item_Deliver_A3_Text_66_Class {
+    position: absolute;
+    left: 0px;
+    top: 43px;
+    overflow: hidden;
+    width: 204px;
+    height: 62px;
+    line-height: 20px;
+    margin-top: -2px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(44,44,44,1);
+}
+.ID036_credit_card_1_Class {
+    position: absolute;
+    width: 34.724px;
+    height: 32.554px;
+    left: 1831.395px;
+    top: 786.183px;
+    overflow: visible;
+}
+.Path_2146 {
+    overflow: visible;
+    position: absolute;
+    top: 23.059px;
+    left: 16.684px;
+    width: 1.356px;
+    height: 1.356px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2147 {
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 34.724px;
+    height: 32.554px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2148 {
+    overflow: visible;
+    position: absolute;
+    top: 16.277px;
+    left: 19.397px;
+    width: 10.851px;
+    height: 6.782px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2149 {
+    overflow: visible;
+    position: absolute;
+    top: 27.128px;
+    left: 8.545px;
+    width: 4.069px;
+    height: 1.356px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2150 {
+    overflow: visible;
+    position: absolute;
+    top: 27.128px;
+    left: 13.971px;
+    width: 4.069px;
+    height: 1.356px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2151 {
+    overflow: visible;
+    position: absolute;
+    top: 27.128px;
+    left: 19.397px;
+    width: 4.069px;
+    height: 1.356px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2152 {
+    overflow: visible;
+    position: absolute;
+    top: 27.128px;
+    left: 24.822px;
+    width: 4.069px;
+    height: 1.356px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2153 {
+    overflow: visible;
+    position: absolute;
+    top: 23.059px;
+    left: 8.545px;
+    width: 6.782px;
+    height: 1.356px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Icon___Close___Two_toned_Class {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 1855px;
+    top: 45px;
+    overflow: visible;
+}
+.Box_A3_Rectangle_81 {
+    position: absolute;
+    overflow: visible;
+    width: 32px;
+    height: 32px;
+    left: 0px;
+    top: 0px;
+}
+.Path_954 {
+    overflow: visible;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 22px;
+    height: 22px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Previs_o_de_entrega_A3_Text_67_Class {
+    position: absolute;
+    left: 1440px;
+    top: 114px;
+    overflow: visible;
+    width: 200px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(44,44,44,1);
+}
+.Cliente_Class {
+    position: absolute;
+    left: 861px;
+    top: 289px;
+    overflow: hidden;
+    width: 109px;
+    height: 23px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(112,112,112,1);
+}
+.Line_9_A3_Line_7 {
+    position: absolute;
+    top: 302.44px;
+    left: 930.888px;
+    width: 8.279px;
+    height: 2px;
+    transform: rotate(45deg);
+    overflow: visible;
+}
+.Line_10 {
+    position: absolute;
+    top: 302.44px;
+    left: 935.888px;
+    width: 8.279px;
+    height: 2.622px;
+    transform: rotate(135deg);
+    overflow: visible;
+}
+.ID_Class {
+    position: absolute;
+    left: 693px;
+    top: 289px;
+    overflow: hidden;
+    width: 109px;
+    height: 23px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(112,112,112,1);
+}
+.Group_357_Class {
+    position: absolute;
+    width: 10px;
+    height: 4.88px;
+    left: 721.587px;
+    top: 299px;
+    overflow: visible;
+}
+.Line_8_A3_Line_9 {
+    position: absolute;
+    top: 3.14px;
+    left: 0px;
+    width: 8.279px;
+    height: 2.622px;
+    transform: rotate(-45deg);
+    overflow: visible;
+}
+.Line_9_A3_Line_10 {
+    position: absolute;
+    top: 3.14px;
+    left: 0px;
+    width: 8.279px;
+    height: 2px;
+    transform: rotate(45deg);
+    overflow: visible;
+}

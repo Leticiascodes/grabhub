@@ -1,0 +1,1784 @@
+.mediaViewInfo {
+    --web-view-name: Em aberto;
+    --web-view-id: Em_aberto;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Em_aberto;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.Em_aberto_Class {
+    position: absolute;
+    box-sizing: border-box;
+    background: #E5E5E5;
+    width: 1920px;
+    height: 1080px;
+    background-color: rgba(250,250,250,1);
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    --web-view-name: Em aberto;
+    --web-view-id: Em_aberto;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-enable-deep-linking: true;
+}
+.Rectangle_609_Class {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+}
+.Rectangle_609 {
+    position: absolute;
+    overflow: visible;
+    width: 1660px;
+    height: 90px;
+    left: 278px;
+    top: 0px;
+}
+.Group_1_Class {
+    position: absolute;
+    width: 764px;
+    height: 35px;
+    left: 303px;
+    top: 19px;
+    overflow: visible;
+}
+.Rectangle_608 {
+    position: absolute;
+    overflow: visible;
+    width: 725px;
+    height: 35px;
+    left: 39px;
+    top: 0px;
+}
+.Icon___Search___Two_toned_Class {
+    position: absolute;
+    width: 74.49px;
+    height: 24px;
+    left: 0px;
+    top: 5px;
+    overflow: visible;
+}
+.Box {
+    position: absolute;
+    overflow: visible;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: 0px;
+}
+.Path_402 {
+    overflow: visible;
+    position: absolute;
+    top: 3px;
+    left: 57px;
+    width: 17.49px;
+    height: 17.491px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2111_Class {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+}
+.Path_2111 {
+    overflow: visible;
+    position: absolute;
+    top: 1080px;
+    left: 0px;
+    width: 329px;
+    height: 18px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.User_Class {
+    position: absolute;
+    width: 193.114px;
+    height: 50px;
+    left: 1694px;
+    top: 11px;
+    overflow: visible;
+}
+.Group_23_Class {
+    position: absolute;
+    width: 8.614px;
+    height: 4.329px;
+    left: 184.5px;
+    top: 24px;
+    overflow: visible;
+}
+.Line_6 {
+    position: absolute;
+    top: 3.061px;
+    left: 0px;
+    width: 9.122px;
+    height: 3px;
+    transform: rotate(-45deg);
+    overflow: visible;
+}
+.Line_7 {
+    position: absolute;
+    top: 3.061px;
+    left: 0px;
+    width: 9.122px;
+    height: 3px;
+    transform: rotate(45deg);
+    overflow: visible;
+}
+.IMG_20180429_114059 {
+    position: absolute;
+    overflow: visible;
+    width: 50px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+}
+.Tamyres_Freitas_Class {
+    position: absolute;
+    left: 61px;
+    top: 15px;
+    overflow: visible;
+    width: 115px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -24.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.Vertical_Menu_Class {
+    position: absolute;
+    width: 280.25px;
+    height: 1080px;
+    left: 0px;
+    top: 0.5px;
+    overflow: visible;
+}
+.Group_335_Class {
+    position: absolute;
+    width: 280px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Rectangle_Class {
+    filter: drop-shadow(0px 2px 10px rgba(0, 0, 0, 0.169));
+}
+.Rectangle {
+    position: absolute;
+    overflow: visible;
+    width: 310px;
+    height: 1110px;
+    left: 0px;
+    top: 0px;
+}
+.Path {
+    overflow: visible;
+    position: absolute;
+    top: 126.794px;
+    left: 278.5px;
+    width: 1.75px;
+    height: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Dashboard_Analytics_Class {
+    position: absolute;
+    left: 26px;
+    top: 158.5px;
+    overflow: visible;
+    width: 181px;
+    white-space: nowrap;
+    line-height: 40px;
+    margin-top: -12px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(44,44,44,1);
+}
+.APPS_Class {
+    position: absolute;
+    left: 28px;
+    top: 112.093px;
+    overflow: hidden;
+    width: 89px;
+    height: 36px;
+    line-height: 36px;
+    margin-top: -10px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(153,153,153,1);
+}
+.Group_340_Class {
+    position: absolute;
+    width: 231.459px;
+    height: 258.923px;
+    left: 28px;
+    top: 394.5px;
+    overflow: visible;
+}
+.UI_Elements_Class {
+    position: absolute;
+    width: 231.459px;
+    height: 214.272px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 84px;
+    height: 7.021px;
+    left: 224.438px;
+    top: 36.957px;
+    overflow: visible;
+}
+.right_arrow_background {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 2px;
+    top: 74px;
+}
+.Path_A0_Path_4 {
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 5.021px;
+    height: 10px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.right_arrow_A0_Group_8_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 10px;
+    height: 5.021px;
+    left: 226.438px;
+    top: 185.272px;
+    overflow: visible;
+}
+.right_arrow_background_A0_Rectangle_6 {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 0px;
+    top: 0px;
+}
+.Group_336_A0_Group_23_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: -28px;
+    top: -673px;
+    overflow: visible;
+}
+.chevron_down_A0_Group_24_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_A0_Group_28_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Group_337_Class {
+    position: absolute;
+    width: 5.021px;
+    height: 98.634px;
+    left: 226.438px;
+    top: 115.638px;
+    overflow: visible;
+}
+.chevron_down_A0_Group_13_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 10px;
+    height: 5.021px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_A0_Group_14_Class {
+    position: absolute;
+    width: 10px;
+    height: 5.021px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_background_A0_Rectangle_7 {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 0px;
+    top: 0px;
+}
+.Path_A0_Path_5 {
+    overflow: visible;
+    position: absolute;
+    top: 88.634px;
+    left: 0px;
+    width: 5.021px;
+    height: 10px;
+    transform: rotate(-90deg);
+}
+.Group_338_A0_Group_26_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: -28px;
+    top: -673px;
+    overflow: visible;
+}
+.chevron_down_A0_Group_27_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_A0_Group_28_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Group_339_Class {
+    position: absolute;
+    width: 5.021px;
+    height: 168.215px;
+    left: 226.438px;
+    top: 36.423px;
+    overflow: visible;
+}
+.Path_A0_Path_6 {
+    overflow: visible;
+    position: absolute;
+    top: 42.5px;
+    left: 0px;
+    width: 5.021px;
+    height: 10px;
+    transform: rotate(-90deg);
+}
+.right_arrow_background_A0_Rectangle_8 {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 0px;
+    top: 0px;
+    transform: rotate(-90deg);
+    transform-origin: left;
+}
+.Path_A0_Path_7 {
+    overflow: visible;
+    position: absolute;
+    top: 125.5px;
+    left: 0px;
+    width: 5.021px;
+    height: 10px;
+    transform: rotate(-90deg);
+}
+.Path_A0_Path_8 {
+    overflow: visible;
+    position: absolute;
+    top: 83.5px;
+    left: 0px;
+    width: 5.021px;
+    height: 10px;
+    transform: rotate(-90deg);
+}
+.right_arrow_background_A0_Rectangle_9 {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 0px;
+    top: 158.215px;
+    transform: rotate(-90deg);
+    transform-origin: left;
+}
+.UI_ELEMENTS_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+    width: 101.012px;
+    height: 36px;
+    line-height: 36px;
+    margin-top: -10px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(153,153,153,1);
+}
+.Dashboard_Analytics_A0_Text_5_Class {
+    position: absolute;
+    left: 17px;
+    top: 34.923px;
+    overflow: visible;
+    width: 107px;
+    white-space: nowrap;
+    line-height: 40px;
+    margin-top: -12px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(52,52,52,1);
+}
+.Group_341_Class {
+    position: absolute;
+    width: 231.459px;
+    height: 195.272px;
+    left: 28px;
+    top: 672.5px;
+    overflow: visible;
+}
+.UI_Elements_A0_Group_20_Class {
+    position: absolute;
+    width: 231.459px;
+    height: 195.272px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_A0_Group_21_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 10px;
+    height: 5.021px;
+    left: 226.438px;
+    top: 110.957px;
+    overflow: visible;
+}
+.right_arrow_background_A0_Rectangle_10 {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 0px;
+    top: 0px;
+}
+.right_arrow_A0_Group_22_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 10px;
+    height: 5.021px;
+    left: 226.438px;
+    top: 185.272px;
+    overflow: visible;
+}
+.right_arrow_background_A0_Rectangle_11 {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 0px;
+    top: 0px;
+}
+.Group_336_A0_Group_23_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: -28px;
+    top: -673px;
+    overflow: visible;
+}
+.chevron_down_A0_Group_24_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_A0_Group_28_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Group_338_A0_Group_26_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: -28px;
+    top: -673px;
+    overflow: visible;
+}
+.chevron_down_A0_Group_27_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_A0_Group_28_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.UI_ELEMENTS_A0_Text_6_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+    width: 101.012px;
+    height: 36px;
+    line-height: 36px;
+    margin-top: -10px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(153,153,153,1);
+}
+.Dashboard_Analytics_A0_Text_7_Class {
+    position: absolute;
+    left: 17px;
+    top: 34.923px;
+    overflow: visible;
+    width: 107px;
+    white-space: nowrap;
+    line-height: 40px;
+    margin-top: -12px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(52,52,52,1);
+}
+.Bread_Crumbs_Class {
+    position: absolute;
+    width: 227px;
+    height: 30.528px;
+    left: 342px;
+    top: 130.381px;
+    overflow: visible;
+}
+.Card_Actions_Class {
+    position: absolute;
+    left: 0px;
+    top: 1.119px;
+    overflow: visible;
+    width: 98px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(44,44,44,1);
+}
+.Path_2 {
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 112.5px;
+    width: 1px;
+    height: 30.528px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.eCommerce_Class {
+    position: absolute;
+    left: 141px;
+    top: 5.119px;
+    overflow: visible;
+    width: 87px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(247,155,42,1);
+}
+.Selection_Control___Switch___O_Class {
+    position: absolute;
+    width: 45px;
+    height: 40px;
+    left: 1787px;
+    top: 126px;
+    overflow: visible;
+}
+.Rectangle_585_Class {
+    opacity: 0.4;
+}
+.Rectangle_585 {
+    position: absolute;
+    overflow: visible;
+    width: 34px;
+    height: 14px;
+    left: 0px;
+    top: 13px;
+}
+.Ellipse_63_Class {
+    filter: drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.212));
+}
+.Ellipse_63 {
+    position: absolute;
+    overflow: visible;
+    width: 29px;
+    height: 29px;
+    left: 15px;
+    top: 10px;
+}
+.Ellipse_62_Class {
+    opacity: 0.15;
+}
+.Ellipse_62 {
+    position: absolute;
+    overflow: visible;
+    width: 40px;
+    height: 40px;
+    left: 5px;
+    top: 0px;
+}
+.Card_Actions_A0_Text_10_Class {
+    position: absolute;
+    left: 1685px;
+    top: 137.5px;
+    overflow: visible;
+    width: 88px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(44,44,44,1);
+}
+.Table_Class {
+    position: absolute;
+    width: 1962px;
+    height: 712.478px;
+    left: 342px;
+    top: 267.522px;
+    overflow: visible;
+}
+.Path_10_Class {
+    filter: drop-shadow(0px 2px 8px rgba(0, 0, 0, 0.161));
+}
+.Path_10 {
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1510px;
+    height: 736.478px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_92 {
+    position: absolute;
+    overflow: visible;
+    width: 1486px;
+    height: 109px;
+    left: 0px;
+    top: 59.478px;
+}
+.Rectangle_94 {
+    position: absolute;
+    overflow: visible;
+    width: 1486px;
+    height: 109px;
+    left: 0px;
+    top: 278.478px;
+}
+.Repeat_Grid_5_Class {
+    position: absolute;
+    width: 77px;
+    height: 429px;
+    left: 107px;
+    top: 77.478px;
+    overflow: hidden;
+}
+.Repeat_Grid_5_0_Class {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.download {
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+.Repeat_Grid_5_1_Class {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 108px;
+    overflow: visible;
+}
+.download_A0_Rectangle_17 {
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+.Repeat_Grid_5_2_Class {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 216px;
+    overflow: visible;
+}
+.br_com_eguana_parmeWebStore {
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+.Repeat_Grid_5_3_Class {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 324px;
+    overflow: visible;
+}
+.download__1_ {
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+.Group_342_Class {
+    position: absolute;
+    width: 784px;
+    height: 24px;
+    left: 267px;
+    top: 102.478px;
+    overflow: visible;
+}
+.ID3216_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 49px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.ID12_30_Class {
+    position: absolute;
+    left: 505px;
+    top: 0px;
+    overflow: visible;
+    width: 54px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.ID5_00_Class {
+    position: absolute;
+    left: 743px;
+    top: 0px;
+    overflow: visible;
+    width: 42px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(84,196,119,1);
+    letter-spacing: 0.25px;
+}
+.Group_344_Class {
+    position: absolute;
+    width: 784px;
+    height: 24px;
+    left: 267px;
+    top: 206.478px;
+    overflow: visible;
+}
+.ID2391_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 49px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.ID12_12_Class {
+    position: absolute;
+    left: 505px;
+    top: 0px;
+    overflow: visible;
+    width: 54px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.ID4_20_Class {
+    position: absolute;
+    left: 743px;
+    top: 0px;
+    overflow: visible;
+    width: 42px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(84,196,119,1);
+    letter-spacing: 0.25px;
+}
+.Group_345_Class {
+    position: absolute;
+    width: 254px;
+    height: 29px;
+    left: 1708px;
+    top: 216.478px;
+    overflow: visible;
+}
+.ID21_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 29px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.ID1_345_Class {
+    position: absolute;
+    left: 190px;
+    top: 0px;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.Group_346_Class {
+    position: absolute;
+    width: 784px;
+    height: 24px;
+    left: 267px;
+    top: 316.478px;
+    overflow: visible;
+}
+.ID1293_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 49px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.ID11_47_Class {
+    position: absolute;
+    left: 505px;
+    top: 0px;
+    overflow: visible;
+    width: 54px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.ID2_34_Class {
+    position: absolute;
+    left: 743px;
+    top: 0px;
+    overflow: visible;
+    width: 42px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(224,131,17,1);
+    letter-spacing: 0.25px;
+}
+.Group_347_Class {
+    position: absolute;
+    width: 254px;
+    height: 29px;
+    left: 1708px;
+    top: 331.478px;
+    overflow: visible;
+}
+.ID21_A0_Text_22_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 29px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.ID1_345_A0_Text_23_Class {
+    position: absolute;
+    left: 190px;
+    top: 0px;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.Group_348_Class {
+    position: absolute;
+    width: 784px;
+    height: 24px;
+    left: 267px;
+    top: 428.478px;
+    overflow: visible;
+}
+.ID4378_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 49px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.ID11_30_Class {
+    position: absolute;
+    left: 505px;
+    top: 0px;
+    overflow: visible;
+    width: 54px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.ID0_40_Class {
+    position: absolute;
+    left: 743px;
+    top: 0px;
+    overflow: visible;
+    width: 42px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(203,26,26,1);
+    letter-spacing: 0.25px;
+}
+.Group_349_Class {
+    position: absolute;
+    width: 254px;
+    height: 29px;
+    left: 1708px;
+    top: 447.478px;
+    overflow: visible;
+}
+.ID21_A0_Text_27_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 29px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.ID1_345_A0_Text_28_Class {
+    position: absolute;
+    left: 190px;
+    top: 0px;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -20.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.Canal_Class {
+    position: absolute;
+    left: 112px;
+    top: 21.478px;
+    overflow: visible;
+    width: 45px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(112,112,112,1);
+}
+.ID_Class {
+    position: absolute;
+    left: 265px;
+    top: 21.478px;
+    overflow: hidden;
+    width: 109px;
+    height: 23px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(112,112,112,1);
+}
+.Hora_Class {
+    position: absolute;
+    left: 771px;
+    top: 20.478px;
+    overflow: hidden;
+    width: 77px;
+    height: 24px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(112,112,112,1);
+}
+.Tempo_de_Confirma__o_Class {
+    position: absolute;
+    left: 1007px;
+    top: 19.478px;
+    overflow: hidden;
+    width: 206px;
+    height: 26px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(112,112,112,1);
+}
+.Jo_o_Gomes_Class {
+    position: absolute;
+    left: 435px;
+    top: 102.478px;
+    overflow: visible;
+    width: 113px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.Maria_Mendes_Class {
+    position: absolute;
+    left: 435px;
+    top: 206.478px;
+    overflow: visible;
+    width: 132px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.Ana_Couto_Pereira_Class {
+    position: absolute;
+    left: 435px;
+    top: 316.478px;
+    overflow: visible;
+    width: 169px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.J_lia_Andrade_Pires_Class {
+    position: absolute;
+    left: 435px;
+    top: 428.478px;
+    overflow: visible;
+    width: 176px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -22.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.Cliente_Class {
+    position: absolute;
+    left: 433px;
+    top: 21.478px;
+    overflow: hidden;
+    width: 109px;
+    height: 23px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(112,112,112,1);
+}
+.Clear_All_Filters_Class {
+    position: absolute;
+    width: 112.64px;
+    height: 36.408px;
+    left: 1641.45px;
+    top: 358.512px;
+    overflow: visible;
+}
+.Rectangle_A0_Rectangle_23 {
+    position: absolute;
+    overflow: visible;
+    width: 112.64px;
+    height: 36.408px;
+    left: 0px;
+    top: 0px;
+}
+.CLEAR_ALL_FILTERS_Class {
+    position: absolute;
+    left: 17.55px;
+    top: 9.703px;
+    overflow: visible;
+    width: 79px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+}
+.Clear_All_Filters_A0_Group_43_Class {
+    position: absolute;
+    width: 112.64px;
+    height: 36.408px;
+    left: 1641.45px;
+    top: 470.592px;
+    overflow: visible;
+}
+.Rectangle_A0_Rectangle_24 {
+    position: absolute;
+    overflow: visible;
+    width: 112.64px;
+    height: 36.408px;
+    left: 0px;
+    top: 0px;
+}
+.CLEAR_ALL_FILTERS_A0_Text_39_Class {
+    position: absolute;
+    left: 17.55px;
+    top: 9.703px;
+    overflow: visible;
+    width: 79px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+}
+.Clear_All_Filters_A0_Group_44_Class {
+    position: absolute;
+    width: 112.64px;
+    height: 36.408px;
+    left: 1641.45px;
+    top: 577.285px;
+    overflow: visible;
+}
+.Rectangle_A0_Rectangle_25 {
+    position: absolute;
+    overflow: visible;
+    width: 112.64px;
+    height: 36.408px;
+    left: 0px;
+    top: 0px;
+}
+.CLEAR_ALL_FILTERS_A0_Text_40_Class {
+    position: absolute;
+    left: 17.55px;
+    top: 9.703px;
+    overflow: visible;
+    width: 79px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+}
+.Clear_All_Filters_A0_Group_45_Class {
+    position: absolute;
+    width: 112.64px;
+    height: 36.408px;
+    left: 1641.45px;
+    top: 685.058px;
+    overflow: visible;
+}
+.Rectangle_A0_Rectangle_26 {
+    position: absolute;
+    overflow: visible;
+    width: 112.64px;
+    height: 36.408px;
+    left: 0px;
+    top: 0px;
+}
+.CLEAR_ALL_FILTERS_A0_Text_41_Class {
+    position: absolute;
+    left: 17.55px;
+    top: 9.703px;
+    overflow: visible;
+    width: 79px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+}
+.Pagination_Class {
+    position: absolute;
+    width: 451.21px;
+    height: 38.401px;
+    left: 1380.79px;
+    top: 1003.099px;
+    overflow: visible;
+}
+.Round_Rectangle {
+    position: absolute;
+    overflow: visible;
+    width: 341.768px;
+    height: 38.401px;
+    left: 54.721px;
+    top: 0px;
+}
+.Left_Class {
+    position: absolute;
+    width: 38.401px;
+    height: 38.401px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Oval {
+    position: absolute;
+    overflow: visible;
+    width: 38.401px;
+    height: 38.401px;
+    left: 0px;
+    top: 0px;
+}
+.chevron_left_Class {
+    position: absolute;
+    width: 5.76px;
+    height: 11.52px;
+    left: 16.32px;
+    top: 12.48px;
+    overflow: visible;
+}
+.Path_A0_Path_11 {
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 8.174px;
+    height: 14.349px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Right_Class {
+    position: absolute;
+    width: 38.401px;
+    height: 38.401px;
+    left: 412.809px;
+    top: 0px;
+    overflow: visible;
+}
+.Oval_A0_Ellipse_6 {
+    position: absolute;
+    overflow: visible;
+    width: 38.401px;
+    height: 38.401px;
+    left: 0px;
+    top: 0px;
+}
+.chevron_right_Class {
+    transform: rotate(180deg);
+    transform-origin: left;
+    position: absolute;
+    width: 5.76px;
+    height: 11.52px;
+    left: 16.32px;
+    top: 13.44px;
+    overflow: visible;
+}
+.Path_A0_Path_12 {
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 8.174px;
+    height: 14.349px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Oval_A0_Ellipse_7 {
+    position: absolute;
+    overflow: visible;
+    width: 38.401px;
+    height: 38.401px;
+    left: 55.085px;
+    top: 0px;
+}
+.ID1_2_3_4_5_6_7_8_9_10_Class {
+    position: absolute;
+    left: 70.962px;
+    top: 8.64px;
+    overflow: visible;
+    width: 311px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248,244,244,1);
+    letter-spacing: 2.444444427490234px;
+}
+.Selection_Control___Checkbox___Class {
+    position: absolute;
+    width: 24.249px;
+    height: 24.249px;
+    left: 382.751px;
+    top: 368px;
+    overflow: visible;
+}
+.Selection_Control___Checkbox___A0_Path_13_Class {
+    opacity: 0.7;
+}
+.Selection_Control___Checkbox___A0_Path_13 {
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 24.249px;
+    height: 24.249px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Selection_Control___Checkbox___A0_Path_14_Class {
+    opacity: 0.7;
+}
+.Selection_Control___Checkbox___A0_Path_14 {
+    overflow: visible;
+    position: absolute;
+    top: 477px;
+    left: 382.751px;
+    width: 24.249px;
+    height: 24.249px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Selection_Control___Checkbox___A0_Path_15_Class {
+    opacity: 0.7;
+}
+.Selection_Control___Checkbox___A0_Path_15 {
+    overflow: visible;
+    position: absolute;
+    top: 587px;
+    left: 382.751px;
+    width: 24.249px;
+    height: 24.249px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Selection_Control___Checkbox___A0_Path_16_Class {
+    opacity: 0.7;
+}
+.Selection_Control___Checkbox___A0_Path_16 {
+    overflow: visible;
+    position: absolute;
+    top: 696px;
+    left: 382.751px;
+    width: 24.249px;
+    height: 24.249px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID4_Pedidos_Class {
+    position: absolute;
+    left: 342px;
+    top: 232px;
+    overflow: visible;
+    width: 91px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(52,52,52,1);
+}
+.Domingo__20_de_outubro_de_2019_Class {
+    position: absolute;
+    left: 341px;
+    top: 170px;
+    overflow: visible;
+    width: 262px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(165,161,161,1);
+}
+.Group_357_Class {
+    position: absolute;
+    width: 10px;
+    height: 4.88px;
+    left: 1540.588px;
+    top: 298px;
+    overflow: visible;
+}
+.Line_8 {
+    position: absolute;
+    top: 3.14px;
+    left: 0px;
+    width: 8.279px;
+    height: 2.622px;
+    transform: rotate(-45deg);
+    overflow: visible;
+}
+.Line_9 {
+    position: absolute;
+    top: 3.14px;
+    left: 0px;
+    width: 8.279px;
+    height: 2px;
+    transform: rotate(45deg);
+    overflow: visible;
+}
+.Group_358_Class {
+    position: absolute;
+    width: 10px;
+    height: 4.88px;
+    left: 1161.588px;
+    top: 300px;
+    overflow: visible;
+}
+.Line_8_A0_Line_5 {
+    position: absolute;
+    top: 3.14px;
+    left: 0px;
+    width: 8.279px;
+    height: 2.622px;
+    transform: rotate(-45deg);
+    overflow: visible;
+}
+.Line_9_A0_Line_6 {
+    position: absolute;
+    top: 3.14px;
+    left: 0px;
+    width: 8.279px;
+    height: 2px;
+    transform: rotate(45deg);
+    overflow: visible;
+}
+.Group_359_Class {
+    position: absolute;
+    width: 10px;
+    height: 4.88px;
+    left: 644.588px;
+    top: 298px;
+    overflow: visible;
+}
+.Line_8_A0_Line_7 {
+    position: absolute;
+    top: 3.14px;
+    left: 0px;
+    width: 8.279px;
+    height: 2.622px;
+    transform: rotate(-45deg);
+    overflow: visible;
+}
+.Line_9_A0_Line_8 {
+    position: absolute;
+    top: 3.14px;
+    left: 0px;
+    width: 8.279px;
+    height: 2px;
+    transform: rotate(45deg);
+    overflow: visible;
+}
+.Group_360_Class {
+    position: absolute;
+    width: 10px;
+    height: 4.88px;
+    left: 509.588px;
+    top: 300px;
+    overflow: visible;
+}
+.Line_8_A0_Line_9 {
+    position: absolute;
+    top: 3.14px;
+    left: 0px;
+    width: 8.279px;
+    height: 2.622px;
+    transform: rotate(-45deg);
+    overflow: visible;
+}
+.Line_9_A0_Line_10 {
+    position: absolute;
+    top: 3.14px;
+    left: 0px;
+    width: 8.279px;
+    height: 2px;
+    transform: rotate(45deg);
+    overflow: visible;
+}
+.Group_356_Class {
+    position: absolute;
+    width: 280px;
+    height: 40px;
+    left: 0px;
+    top: 190px;
+    overflow: visible;
+}
+.Rectangle_612 {
+    position: absolute;
+    overflow: visible;
+    width: 280px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+}
+.Dashboard_Class {
+    position: absolute;
+    width: 5px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Rectangle_A0_Rectangle_29_Class {
+    filter: drop-shadow(-1px 1px 5px rgba(126, 114, 242, 0.58));
+}
+.Rectangle_A0_Rectangle_29 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+}
+.Group_373_Class {
+    position: absolute;
+    width: 10px;
+    height: 4.88px;
+    left: 845.588px;
+    top: 300px;
+    overflow: visible;
+}
+.Line_8_A0_Line_11 {
+    position: absolute;
+    top: 3.14px;
+    left: 0px;
+    width: 8.279px;
+    height: 2.622px;
+    transform: rotate(-45deg);
+    overflow: visible;
+}
+.Line_9_A0_Line_12 {
+    position: absolute;
+    top: 3.14px;
+    left: 0px;
+    width: 8.279px;
+    height: 2px;
+    transform: rotate(45deg);
+    overflow: visible;
+}

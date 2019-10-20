@@ -1,16 +1,23 @@
->Esse é um arquivo de template e tem como o intuito prover uma breve apresentação de seu projeto para avaliadores e mentores. Sinta-se à vontade para editar os tópicos e títulos de acordo com seu gosto ou até mesmo para deletá-lo ou sobrescreve-lo caso o queira. Cheque também o arquivo [repositorio.md](https://github.com/hackingrio/template/blob/master/repositorio.md) para saber o que acontecerá com esse repositório depois que o evento acabar.
+#  Grab Hub - 2019
+### Dream Team / Alimentação
 
-# Nome do produto - 2019
-### Nome do grupo / Nome do cluster
+#### Apresentação
 
-#### Apresentação 
+Viemos para resolver o problema de gestão de pedidos de delivery para restaurantes provenientes de apps diversos. Centralizamos todas as demandas em um único sistema web, através do consumo das APIs 
+dos apps, facilitando a operação desde a entrada até a conclusão da entrega. Oferecemos usabilidade amigável, relatórios descritivos e preditivos.
 
-Use essa seção para falar sobre as motivações de seu time e de forma breve qual o produto que estão trabalhando. Se possível forneça **o que** seu produto é, por exemplo: Um app, uma aplicação web, gadget, dentre outros.
 
 #### O Produto
 
-Entre em mais detalhes sobre seu produto, levantando pontos positivos, o porquê dele ser inovador, relevante para o mercado nacional e para a cidade do Rio de Janeiro.
+Diferente dos PDV comuns, atuamos sobre a "nova economia" de pedidos de delivery de comida. Só atualmente mais de 100 mil restaurantes cadastrados somente no iFood e mais de 20 milhıes de 
+entregas até julho de 2019. Segundo a Associação Brasileira de Bares e Restaurantes (ABRASEL), o crescimento do número de pedidos via aplicativo gira em torno de R$ 1 bilhão a cada mês, explicitando 
+o potencial econômico deste nicho.
+Nosso sistema trabalha em real-time, na chegada dos pedidos, gera relatórios históricos sobre itens mais pedidos, faturamento, avaliação dos clientes, utilização de cupons e muito mais, além de
+possuir solução de predição de faturamento e pedidos, munindo o estabelecimento de informações importantíssimas para aumento de eficiência operacional e financeira, como planejamento de compras, 
+alocação de staff, montagem de cardápio, promoções e outros.
+
 
 #### Informações adicionais 
 
-Forneça informações adicionais, adicione novos tópicos ou subtópicos. Use esse arquivo como um guia rápido para manter claro os objetivos de seu projeto para os demais integrantes. Manter o foco conjunto de forma coesa lhe ajudará a criar um produto mais *sólido*.
+Nosso objetivo é acompanhar a evolução do mercado de alimentação e os novos formatos de consumo. Nossa visão é ser o sistema White Label mais usado do Brasil e incluir novas ferramentas como 
+gestão e distribuição de cardápios online, promoções dinâmicas, ações sobre as avaliações, comunicação automatizada de acordo com o hábito de consumo do cliente e mais!

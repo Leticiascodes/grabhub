@@ -257,10 +257,10 @@
               </tr>
             </thead>
         <tr *ngFor="let item of orderList">
-        <td>{{item?.code}}</td>
-        <td>{{item?.correlationId}}</td>
+        <td>{{item?.origin}}</td>
+        <td>{{item?.items[0]?.name}}</td>
         <td>{{item?.createdAt}}</td>
-        <td>{{item?.id}}</td>
+        <td>{{item?.deliveryDateTime}}</td>
         <td><button  (click)="confirma(item)"
            type="button" class="btn btn-warning" 
           style="border-radius: 14px; width: 100px; color: white">Confirmar</button></td>

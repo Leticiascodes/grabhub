@@ -22,6 +22,7 @@ module.exports = (app) => {
     "createdAt": "2019-08-28T14:35:03.27Z",
     "scheduled": false,
     "type": "DELIVERY",
+    "origin":"iFood",
     "merchant": {
       "id": "96122c28-0c99-41d4-8498-b6a361555999",
       "shortId": "99999",
@@ -58,7 +59,7 @@ module.exports = (app) => {
     "items": [
       {
         "id": "53d33ead-1903-4496-82fc-6cdbc0f4803e",
-        "name": "Item teste",
+        "name": "Pizza em Dobro Super Família",
         "quantity": 5,
         "price": 1.2,
         "subItemsPrice": 0,
@@ -167,6 +168,7 @@ module.exports = (app) => {
     "shortReference": "3409",   //Extranet Id
     "createdAt": "2018-01-18T20:05:06.177Z",    //Timestamp do pedido
     "type": "DELIVERY", //Tipo do pedido("DELIVERY" ou "TOGO")
+    "origin":"iFood",
     "merchant": {   //Dados do restaurante
       "id": "10487",  //Identificador unico do restaurante⁎
       "name": "Modelo Area",  //Nome do restaurante
@@ -291,6 +293,7 @@ module.exports = (app) => {
     "shortReference": "8957",
     "createdAt": "2018-05-03T19:18:21.517Z",
     "type": "DELIVERY",
+    "origin":"uberEats",
     "merchant": {
       "id": "137086",
       "name": "MODELO AREA 3",
@@ -393,6 +396,7 @@ module.exports = (app) => {
     "shortReference": "9246",
     "createdAt": "2018-05-03T19:21:17.478Z",
     "type": "DELIVERY",
+    "origin":"parme",
     "merchant": {
       "id": "137086",
       "name": "MODELO AREA 3",
@@ -501,6 +505,7 @@ module.exports = (app) => {
     "shortReference": "9418",
     "createdAt": "2018-05-03T19:23:11.597Z",
     "type": "DELIVERY",
+    "origin":"uberEats",
     "merchant": {
       "id": "137086",
       "name": "MODELO AREA 3",
@@ -599,6 +604,7 @@ module.exports = (app) => {
     "shortReference": "9547",
     "createdAt": "2018-05-03T19:24:29.919Z",
     "type": "DELIVERY",
+    "origin":"iFood",
     "merchant": {
       "id": "137086",
       "name": "MODELO AREA 3",

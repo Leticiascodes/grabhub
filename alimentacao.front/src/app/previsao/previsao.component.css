@@ -1,0 +1,2471 @@
+.mediaViewInfo {
+    --web-view-name: Previsao;
+    --web-view-id: Previsao;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-navigate-on-keypress: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Previsao;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.Previsao_Class {
+    position: absolute;
+    box-sizing: border-box;
+    background: #E5E5E5;
+    width: 1920px;
+    height: 948px;
+    background-color: rgba(250,250,250,1);
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    --web-view-name: Previsao;
+    --web-view-id: Previsao;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-navigate-on-keypress: true;
+    --web-enable-deep-linking: true;
+}
+.Rectangle_609_Class {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+}
+.Rectangle_609 {
+    position: absolute;
+    overflow: visible;
+    width: 1660px;
+    height: 90px;
+    left: 278px;
+    top: 0px;
+}
+.Group_1_Class {
+    position: absolute;
+    width: 764px;
+    height: 35px;
+    left: 305px;
+    top: 19px;
+    overflow: visible;
+}
+.Rectangle_608 {
+    position: absolute;
+    overflow: visible;
+    width: 725px;
+    height: 35px;
+    left: 39px;
+    top: 0px;
+}
+.Icon___Search___Two_toned_Class {
+    position: absolute;
+    width: 74.49px;
+    height: 24px;
+    left: 0px;
+    top: 5px;
+    overflow: visible;
+}
+.Box {
+    position: absolute;
+    overflow: visible;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: 0px;
+}
+.Path_402 {
+    overflow: visible;
+    position: absolute;
+    top: 3px;
+    left: 57px;
+    width: 17.49px;
+    height: 17.491px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Filter_Class {
+    position: absolute;
+    width: 174px;
+    height: 41px;
+    left: 1493px;
+    top: 126px;
+    overflow: visible;
+}
+.Rectangle_48_Class {
+    filter: drop-shadow(1px 1px 17px rgba(237, 235, 228, 1));
+}
+.Rectangle_48 {
+    position: absolute;
+    overflow: visible;
+    width: 225px;
+    height: 92px;
+    left: 0px;
+    top: 0px;
+}
+.Uber_Eats_Class {
+    position: absolute;
+    left: 55px;
+    top: 12px;
+    overflow: visible;
+    width: 64px;
+    white-space: nowrap;
+    line-height: 36px;
+    margin-top: -11px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.Calendar_icon_Class {
+    position: absolute;
+    width: 21px;
+    height: 16px;
+    left: 20px;
+    top: 13px;
+    overflow: visible;
+}
+.Rectangle_49 {
+    position: absolute;
+    overflow: visible;
+    width: 21px;
+    height: 16px;
+    left: 0px;
+    top: 0px;
+}
+.Rectangle_50 {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 5px;
+    top: 4px;
+}
+.Rectangle_53 {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 5px;
+    top: 9px;
+}
+.Rectangle_51 {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 10px;
+    top: 4px;
+}
+.Rectangle_54 {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 10px;
+    top: 9px;
+}
+.Rectangle_52 {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 14px;
+    top: 4px;
+}
+.Rectangle_55 {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 14px;
+    top: 9px;
+}
+.Group_22_Class {
+    position: absolute;
+    width: 6.945px;
+    height: 3.49px;
+    left: 148.587px;
+    top: 18.543px;
+    overflow: visible;
+}
+.Line_6 {
+    position: absolute;
+    top: 2.468px;
+    left: 0px;
+    width: 7.935px;
+    height: 3px;
+    transform: rotate(-45deg);
+    overflow: visible;
+}
+.Line_7 {
+    position: absolute;
+    top: 2.468px;
+    left: 0px;
+    width: 7.935px;
+    height: 3px;
+    transform: rotate(45deg);
+    overflow: visible;
+}
+.User_Class {
+    position: absolute;
+    width: 193.114px;
+    height: 50px;
+    left: 1694px;
+    top: 11px;
+    overflow: visible;
+}
+.Group_23_Class {
+    position: absolute;
+    width: 8.614px;
+    height: 4.329px;
+    left: 184.5px;
+    top: 24px;
+    overflow: visible;
+}
+.Line_6_A1_Line_3 {
+    position: absolute;
+    top: 3.061px;
+    left: 0px;
+    width: 9.122px;
+    height: 3px;
+    transform: rotate(-45deg);
+    overflow: visible;
+}
+.Line_7_A1_Line_4 {
+    position: absolute;
+    top: 3.061px;
+    left: 0px;
+    width: 9.122px;
+    height: 3px;
+    transform: rotate(45deg);
+    overflow: visible;
+}
+.IMG_20180429_114059 {
+    position: absolute;
+    overflow: visible;
+    width: 50px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+}
+.Tamyres_Freitas_Class {
+    position: absolute;
+    left: 61px;
+    top: 15px;
+    overflow: visible;
+    width: 115px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -24.5px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(65,65,65,1);
+    letter-spacing: 0.25px;
+}
+.Cards___List_1_up___Outlined___Class {
+    position: absolute;
+    width: 344px;
+    height: 148px;
+    left: 343px;
+    top: 223px;
+    overflow: visible;
+}
+.Surface_Class {
+    filter: drop-shadow(0px 2px 8px rgba(0, 0, 0, 0.2));
+}
+.Surface {
+    position: absolute;
+    overflow: visible;
+    width: 368px;
+    height: 172px;
+    left: 0px;
+    top: 0px;
+}
+.Custo_de_comiss_o_Class {
+    position: absolute;
+    left: 19px;
+    top: 34px;
+    overflow: visible;
+    width: 170px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(0,0,0,0.871);
+}
+.R_600__Class {
+    position: absolute;
+    left: 19px;
+    top: 67px;
+    overflow: hidden;
+    width: 215px;
+    height: 72px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(44,44,44,1);
+    letter-spacing: 0.18px;
+}
+.Cards___List_1_up___Outlined___A1_Component_3_Class {
+    position: absolute;
+    width: 344px;
+    height: 148px;
+    left: 729px;
+    top: 223px;
+    overflow: visible;
+}
+.Surface_A1_Rectangle_13_Class {
+    filter: drop-shadow(0px 2px 8px rgba(0, 0, 0, 0.2));
+}
+.Surface_A1_Rectangle_13 {
+    position: absolute;
+    overflow: visible;
+    width: 368px;
+    height: 172px;
+    left: 0px;
+    top: 0px;
+}
+.Faturamento_por_categoria_Class {
+    position: absolute;
+    left: 16px;
+    top: 31px;
+    overflow: visible;
+    width: 245px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(0,0,0,0.871);
+}
+.ID1k_em_massas_Class {
+    position: absolute;
+    left: 15px;
+    top: 65px;
+    overflow: hidden;
+    width: 215px;
+    height: 73px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(44,44,44,1);
+    letter-spacing: 0.18px;
+}
+.Cards___List_1_up___Outlined___A1_Component_4_Class {
+    position: absolute;
+    width: 344px;
+    height: 148px;
+    left: 1114px;
+    top: 223px;
+    overflow: visible;
+}
+.Surface_A1_Rectangle_14_Class {
+    filter: drop-shadow(0px 2px 8px rgba(0, 0, 0, 0.2));
+}
+.Surface_A1_Rectangle_14 {
+    position: absolute;
+    overflow: visible;
+    width: 368px;
+    height: 172px;
+    left: 0px;
+    top: 0px;
+}
+.Buttons___Text___Enabled_Class {
+    position: absolute;
+    width: 93px;
+    height: 36px;
+    left: 4px;
+    top: 104px;
+    overflow: visible;
+}
+.Box_A1_Rectangle_15 {
+    position: absolute;
+    overflow: visible;
+    width: 93px;
+    height: 36px;
+    left: 0px;
+    top: 0px;
+}
+.Valor_m_dio__Class {
+    position: absolute;
+    left: 16px;
+    top: 34px;
+    overflow: visible;
+    width: 114px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(0,0,0,0.871);
+}
+.R__25_10__por_pedido_Class {
+    position: absolute;
+    left: 16px;
+    top: 64px;
+    overflow: hidden;
+    width: 215px;
+    height: 73px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.18px;
+}
+.Cards___List_1_up___Outlined___A1_Group_7_Class {
+    position: absolute;
+    width: 344px;
+    height: 148px;
+    left: 1500px;
+    top: 223px;
+    overflow: visible;
+}
+.Surface_A1_Rectangle_16_Class {
+    filter: drop-shadow(0px 2px 8px rgba(0, 0, 0, 0.2));
+}
+.Surface_A1_Rectangle_16 {
+    position: absolute;
+    overflow: visible;
+    width: 368px;
+    height: 172px;
+    left: 0px;
+    top: 0px;
+}
+.Desconto_Ideal_Class {
+    position: absolute;
+    left: 16px;
+    top: 31px;
+    overflow: visible;
+    width: 136px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(0,0,0,0.871);
+}
+.ID10__por_cupom_Class {
+    position: absolute;
+    left: 16px;
+    top: 63px;
+    overflow: hidden;
+    width: 215px;
+    height: 73px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.18px;
+}
+.Buttons___Text___Enabled_A1_Group_8_Class {
+    position: absolute;
+    width: 93px;
+    height: 36px;
+    left: 4px;
+    top: 108px;
+    overflow: visible;
+}
+.Box_A1_Rectangle_17 {
+    position: absolute;
+    overflow: visible;
+    width: 93px;
+    height: 36px;
+    left: 0px;
+    top: 0px;
+}
+.Cards___Elements___Media___1_1_Class {
+    position: absolute;
+    width: 112px;
+    height: 112px;
+    left: 232px;
+    top: 0px;
+    overflow: visible;
+}
+.Box_A1_Rectangle_18 {
+    position: absolute;
+    overflow: visible;
+    width: 112px;
+    height: 112px;
+    left: 0px;
+    top: 0px;
+}
+.Bread_Crumbs_Class {
+    position: absolute;
+    width: 107px;
+    height: 29px;
+    left: 343px;
+    top: 131px;
+    overflow: visible;
+}
+.Card_Actions_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 108px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(44,44,44,1);
+}
+.Selection_Control___Switch___O_Class {
+    position: absolute;
+    width: 45px;
+    height: 40px;
+    left: 1799px;
+    top: 126px;
+    overflow: visible;
+}
+.Rectangle_585_Class {
+    opacity: 0.4;
+}
+.Rectangle_585 {
+    position: absolute;
+    overflow: visible;
+    width: 34px;
+    height: 14px;
+    left: 0px;
+    top: 13px;
+}
+.Ellipse_63_Class {
+    filter: drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.212));
+}
+.Ellipse_63 {
+    position: absolute;
+    overflow: visible;
+    width: 29px;
+    height: 29px;
+    left: 15px;
+    top: 10px;
+}
+.Ellipse_62_Class {
+    opacity: 0.15;
+}
+.Ellipse_62 {
+    position: absolute;
+    overflow: visible;
+    width: 40px;
+    height: 40px;
+    left: 5px;
+    top: 0px;
+}
+.Card_Actions_A1_Text_12_Class {
+    position: absolute;
+    left: 1697px;
+    top: 137.5px;
+    overflow: visible;
+    width: 88px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(44,44,44,1);
+}
+.Order_Card_Class {
+    position: absolute;
+    width: 64.208px;
+    height: 18px;
+    left: 1747px;
+    top: 427px;
+    overflow: visible;
+}
+.Group_355_Class {
+    position: absolute;
+    width: 64.209px;
+    height: 18px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.chevron_down {
+    overflow: visible;
+    position: absolute;
+    top: 7.5px;
+    left: 55.208px;
+    width: 11.828px;
+    height: 6.414px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID2_itens_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 47px;
+    white-space: nowrap;
+    line-height: 40px;
+    margin-top: -13px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(22,22,22,1);
+}
+.Filter_A1_Group_13_Class {
+    position: absolute;
+    width: 174px;
+    height: 41px;
+    left: 1301px;
+    top: 126px;
+    overflow: visible;
+}
+.Rectangle_48_A1_Rectangle_20_Class {
+    filter: drop-shadow(1px 1px 17px rgba(237, 235, 228, 1));
+}
+.Rectangle_48_A1_Rectangle_20 {
+    position: absolute;
+    overflow: visible;
+    width: 225px;
+    height: 92px;
+    left: 0px;
+    top: 0px;
+}
+.Massas_Class {
+    position: absolute;
+    left: 55px;
+    top: 12px;
+    overflow: visible;
+    width: 48px;
+    white-space: nowrap;
+    line-height: 36px;
+    margin-top: -11px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.Calendar_icon_A1_Group_14_Class {
+    position: absolute;
+    width: 21px;
+    height: 16px;
+    left: 20px;
+    top: 13px;
+    overflow: visible;
+}
+.Rectangle_49_A1_Rectangle_21 {
+    position: absolute;
+    overflow: visible;
+    width: 21px;
+    height: 16px;
+    left: 0px;
+    top: 0px;
+}
+.Rectangle_50_A1_Rectangle_22 {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 5px;
+    top: 4px;
+}
+.Rectangle_53_A1_Rectangle_23 {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 5px;
+    top: 9px;
+}
+.Rectangle_51_A1_Rectangle_24 {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 10px;
+    top: 4px;
+}
+.Rectangle_54_A1_Rectangle_25 {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 10px;
+    top: 9px;
+}
+.Rectangle_52_A1_Rectangle_26 {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 14px;
+    top: 4px;
+}
+.Rectangle_55_A1_Rectangle_27 {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 14px;
+    top: 9px;
+}
+.Group_22_A1_Group_15_Class {
+    position: absolute;
+    width: 6.945px;
+    height: 3.49px;
+    left: 148.588px;
+    top: 18.543px;
+    overflow: visible;
+}
+.Line_6_A1_Line_5 {
+    position: absolute;
+    top: 2.468px;
+    left: 0px;
+    width: 7.935px;
+    height: 3px;
+    transform: rotate(-45deg);
+    overflow: visible;
+}
+.Line_7_A1_Line_6 {
+    position: absolute;
+    top: 2.468px;
+    left: 0px;
+    width: 7.935px;
+    height: 3px;
+    transform: rotate(45deg);
+    overflow: visible;
+}
+.Filter_A1_Group_16_Class {
+    position: absolute;
+    width: 190px;
+    height: 41px;
+    left: 1089px;
+    top: 125px;
+    overflow: visible;
+}
+.Rectangle_48_A1_Rectangle_28_Class {
+    filter: drop-shadow(1px 1px 17px rgba(237, 235, 228, 1));
+}
+.Rectangle_48_A1_Rectangle_28 {
+    position: absolute;
+    overflow: visible;
+    width: 241px;
+    height: 92px;
+    left: 0px;
+    top: 0px;
+}
+.Pr_ximos_7_dias__Class {
+    position: absolute;
+    left: 51px;
+    top: 12px;
+    overflow: visible;
+    width: 106px;
+    white-space: nowrap;
+    line-height: 36px;
+    margin-top: -11px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(52,52,52,1);
+    letter-spacing: 0.25px;
+}
+.Calendar_icon_A1_Group_17_Class {
+    position: absolute;
+    width: 21px;
+    height: 16px;
+    left: 16px;
+    top: 13px;
+    overflow: visible;
+}
+.Rectangle_49_A1_Rectangle_29 {
+    position: absolute;
+    overflow: visible;
+    width: 21px;
+    height: 16px;
+    left: 0px;
+    top: 0px;
+}
+.Rectangle_50_A1_Rectangle_30 {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 5px;
+    top: 4px;
+}
+.Rectangle_53_A1_Rectangle_31 {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 5px;
+    top: 9px;
+}
+.Rectangle_51_A1_Rectangle_32 {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 10px;
+    top: 4px;
+}
+.Rectangle_54_A1_Rectangle_33 {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 10px;
+    top: 9px;
+}
+.Rectangle_52_A1_Rectangle_34 {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 14px;
+    top: 4px;
+}
+.Rectangle_55_A1_Rectangle_35 {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 14px;
+    top: 9px;
+}
+.Group_22_A1_Group_18_Class {
+    position: absolute;
+    width: 6.945px;
+    height: 3.49px;
+    left: 168.587px;
+    top: 18.543px;
+    overflow: visible;
+}
+.Line_6_A1_Line_7 {
+    position: absolute;
+    top: 2.468px;
+    left: 0px;
+    width: 7.935px;
+    height: 3px;
+    transform: rotate(-45deg);
+    overflow: visible;
+}
+.Line_7_A1_Line_8 {
+    position: absolute;
+    top: 2.468px;
+    left: 0px;
+    width: 7.935px;
+    height: 3px;
+    transform: rotate(45deg);
+    overflow: visible;
+}
+.Union_10_Class {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+}
+.Union_10 {
+    overflow: visible;
+    position: absolute;
+    top: 626px;
+    left: 624px;
+    width: 98px;
+    height: 93px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Escalope_Class {
+    position: absolute;
+    left: 637px;
+    top: 638px;
+    overflow: visible;
+    width: 56px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(22,22,22,1);
+}
+.R__13_000_Class {
+    position: absolute;
+    left: 636px;
+    top: 656px;
+    overflow: visible;
+    width: 58px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(22,22,22,1);
+}
+.Sessions_Card_Class {
+    position: absolute;
+    width: 966px;
+    height: 486px;
+    left: 878px;
+    top: 421px;
+    overflow: visible;
+}
+.Sessions_BG_Class {
+    filter: drop-shadow(0px 2px 8px rgba(0, 0, 0, 0.078));
+}
+.Sessions_BG {
+    position: absolute;
+    overflow: visible;
+    width: 990px;
+    height: 510px;
+    left: 0px;
+    top: 0px;
+}
+.Chart_Class {
+    position: absolute;
+    width: 881px;
+    height: 220px;
+    left: 44px;
+    top: 153px;
+    overflow: visible;
+}
+.Bar_1_Class {
+    position: absolute;
+    width: 881px;
+    height: 81px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Rectangle_15 {
+    position: absolute;
+    overflow: visible;
+    width: 881px;
+    height: 46px;
+    left: 0px;
+    top: 35px;
+}
+.Rectangle_16 {
+    position: absolute;
+    overflow: visible;
+    width: 443px;
+    height: 46px;
+    left: 0px;
+    top: 35px;
+}
+._ltimos_7_dias_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 121px;
+    white-space: nowrap;
+    line-height: 75px;
+    margin-top: -29px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(52,52,52,1);
+}
+.Bar_2_Class {
+    position: absolute;
+    width: 881px;
+    height: 80px;
+    left: 0px;
+    top: 140px;
+    overflow: visible;
+}
+.Rectangle_15_A1_Rectangle_39 {
+    position: absolute;
+    overflow: visible;
+    width: 881px;
+    height: 45px;
+    left: 0px;
+    top: 35px;
+}
+.Rectangle_16_A1_Rectangle_40 {
+    position: absolute;
+    overflow: visible;
+    width: 612px;
+    height: 45px;
+    left: 0px;
+    top: 35px;
+}
+.Pr_ximos_7_dias_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 134px;
+    white-space: nowrap;
+    line-height: 77px;
+    margin-top: -30px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(52,52,52,1);
+}
+.ID2_7K_Class {
+    position: absolute;
+    left: 186px;
+    top: 150px;
+    overflow: visible;
+    width: 42px;
+    white-space: nowrap;
+    line-height: 48px;
+    margin-top: -14.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    color: rgba(22,22,22,1);
+}
+._5_2___Class {
+    position: absolute;
+    left: 820px;
+    top: 32px;
+    overflow: visible;
+    width: 110px;
+    white-space: nowrap;
+    line-height: 50px;
+    margin-top: -7.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(84,196,119,1);
+}
+.ID3_6K_Class {
+    position: absolute;
+    left: 197px;
+    top: 291px;
+    overflow: visible;
+    width: 42px;
+    white-space: nowrap;
+    line-height: 48px;
+    margin-top: -14.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    color: rgba(22,22,22,1);
+}
+.Product_Orders_Class {
+    position: absolute;
+    left: 913px;
+    top: 454px;
+    overflow: visible;
+    width: 215px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(22,22,22,1);
+}
+.Path_2 {
+    overflow: visible;
+    position: absolute;
+    top: 130.381px;
+    left: 460.5px;
+    width: 1px;
+    height: 30.528px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.eCommerce_Class {
+    position: absolute;
+    left: 481px;
+    top: 135.5px;
+    overflow: visible;
+    width: 109px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(247,155,42,1);
+}
+.Tickets_Card_Class {
+    position: absolute;
+    width: 505px;
+    height: 486px;
+    left: 343px;
+    top: 421px;
+    overflow: visible;
+}
+.Rectangle_Class {
+    filter: drop-shadow(0px 2px 8px rgba(0, 0, 0, 0.133));
+}
+.Rectangle {
+    position: absolute;
+    overflow: visible;
+    width: 529px;
+    height: 510px;
+    left: 0px;
+    top: 0px;
+}
+.Goal_Overview_Class {
+    position: absolute;
+    left: 34px;
+    top: 37px;
+    overflow: hidden;
+    width: 240px;
+    height: 55px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(44,44,44,1);
+}
+.ID13_561_Class {
+    position: absolute;
+    left: 416px;
+    top: 60px;
+    overflow: hidden;
+    width: 76px;
+    height: 36px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(44,44,44,1);
+}
+.In_Progress_Class {
+    position: absolute;
+    left: 400px;
+    top: 39px;
+    overflow: hidden;
+    width: 84px;
+    height: 36px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(44,44,44,1);
+}
+.Path_5 {
+    overflow: visible;
+    position: absolute;
+    top: 391.656px;
+    left: 0px;
+    width: 505px;
+    height: 1px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Domingo__20_de_outubro_de_2019_Class {
+    position: absolute;
+    left: 341px;
+    top: 170px;
+    overflow: visible;
+    width: 262px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(165,161,161,1);
+}
+.Vertical_Menu_Class {
+    position: absolute;
+    width: 280.25px;
+    height: 1080px;
+    left: -0.25px;
+    top: 0.5px;
+    overflow: visible;
+}
+.Group_335_Class {
+    position: absolute;
+    width: 280px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Rectangle_A1_Rectangle_42_Class {
+    filter: drop-shadow(0px 2px 10px rgba(0, 0, 0, 0.169));
+}
+.Rectangle_A1_Rectangle_42 {
+    position: absolute;
+    overflow: visible;
+    width: 310px;
+    height: 1110px;
+    left: 0px;
+    top: 0px;
+}
+.Path {
+    overflow: visible;
+    position: absolute;
+    top: 126.794px;
+    left: 278.5px;
+    width: 1.75px;
+    height: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Dashboard_Analytics_Class {
+    position: absolute;
+    left: 26px;
+    top: 158.5px;
+    overflow: visible;
+    width: 181px;
+    white-space: nowrap;
+    line-height: 40px;
+    margin-top: -12px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(52,52,52,1);
+}
+.APPS_Class {
+    position: absolute;
+    left: 28px;
+    top: 112.093px;
+    overflow: hidden;
+    width: 89px;
+    height: 36px;
+    line-height: 36px;
+    margin-top: -10px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(153,153,153,1);
+}
+.Group_340_Class {
+    position: absolute;
+    width: 231.459px;
+    height: 258.923px;
+    left: 28px;
+    top: 394.5px;
+    overflow: visible;
+}
+.UI_Elements_Class {
+    position: absolute;
+    width: 231.459px;
+    height: 214.272px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 84px;
+    height: 7.021px;
+    left: 224.438px;
+    top: 36.958px;
+    overflow: visible;
+}
+.right_arrow_background {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 2px;
+    top: 74px;
+}
+.Path_A1_Path_6 {
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 5.021px;
+    height: 10px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.right_arrow_A1_Group_28_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 10px;
+    height: 5.021px;
+    left: 226.438px;
+    top: 185.272px;
+    overflow: visible;
+}
+.right_arrow_background_A1_Rectangle_44 {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 0px;
+    top: 0px;
+}
+.Group_336_A1_Group_43_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: -28.75px;
+    top: -1843px;
+    overflow: visible;
+}
+.chevron_down_A1_Group_44_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_A1_Group_48_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Group_337_Class {
+    position: absolute;
+    width: 5.021px;
+    height: 98.634px;
+    left: 226.438px;
+    top: 115.638px;
+    overflow: visible;
+}
+.chevron_down_A1_Group_33_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 10px;
+    height: 5.021px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_A1_Group_34_Class {
+    position: absolute;
+    width: 10px;
+    height: 5.021px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_background_A1_Rectangle_45 {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 0px;
+    top: 0px;
+}
+.Path_A1_Path_7 {
+    overflow: visible;
+    position: absolute;
+    top: 88.634px;
+    left: 0px;
+    width: 5.021px;
+    height: 10px;
+    transform: rotate(-90deg);
+}
+.Group_338_A1_Group_46_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: -28.75px;
+    top: -1843px;
+    overflow: visible;
+}
+.chevron_down_A1_Group_47_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_A1_Group_48_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Group_339_Class {
+    position: absolute;
+    width: 5.021px;
+    height: 168.215px;
+    left: 226.438px;
+    top: 36.423px;
+    overflow: visible;
+}
+.Path_A1_Path_8 {
+    overflow: visible;
+    position: absolute;
+    top: 42.5px;
+    left: 0px;
+    width: 5.021px;
+    height: 10px;
+    transform: rotate(-90deg);
+}
+.right_arrow_background_A1_Rectangle_46 {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 0px;
+    top: 0px;
+    transform: rotate(-90deg);
+    transform-origin: left;
+}
+.Path_A1_Path_9 {
+    overflow: visible;
+    position: absolute;
+    top: 125.5px;
+    left: 0px;
+    width: 5.021px;
+    height: 10px;
+    transform: rotate(-90deg);
+}
+.Path_A1_Path_10 {
+    overflow: visible;
+    position: absolute;
+    top: 83.5px;
+    left: 0px;
+    width: 5.021px;
+    height: 10px;
+    transform: rotate(-90deg);
+}
+.right_arrow_background_A1_Rectangle_47 {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 0px;
+    top: 158.215px;
+    transform: rotate(-90deg);
+    transform-origin: left;
+}
+.UI_ELEMENTS_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+    width: 101.012px;
+    height: 36px;
+    line-height: 36px;
+    margin-top: -10px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(153,153,153,1);
+}
+.Dashboard_Analytics_A1_Text_32_Class {
+    position: absolute;
+    left: 17px;
+    top: 34.923px;
+    overflow: visible;
+    width: 107px;
+    white-space: nowrap;
+    line-height: 40px;
+    margin-top: -12px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(52,52,52,1);
+}
+.Group_341_Class {
+    position: absolute;
+    width: 231.459px;
+    height: 195.272px;
+    left: 28px;
+    top: 672.5px;
+    overflow: visible;
+}
+.UI_Elements_A1_Group_40_Class {
+    position: absolute;
+    width: 231.459px;
+    height: 195.272px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_A1_Group_41_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 10px;
+    height: 5.021px;
+    left: 226.438px;
+    top: 110.958px;
+    overflow: visible;
+}
+.right_arrow_background_A1_Rectangle_48 {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 0px;
+    top: 0px;
+}
+.right_arrow_A1_Group_42_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 10px;
+    height: 5.021px;
+    left: 226.438px;
+    top: 185.272px;
+    overflow: visible;
+}
+.right_arrow_background_A1_Rectangle_49 {
+    position: absolute;
+    overflow: visible;
+    width: 5.021px;
+    height: 10px;
+    left: 0px;
+    top: 0px;
+}
+.Group_336_A1_Group_43_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: -28.75px;
+    top: -1843px;
+    overflow: visible;
+}
+.chevron_down_A1_Group_44_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_A1_Group_48_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Group_338_A1_Group_46_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: -28.75px;
+    top: -1843px;
+    overflow: visible;
+}
+.chevron_down_A1_Group_47_Class {
+    transform: rotate(-90deg);
+    transform-origin: left;
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.right_arrow_A1_Group_48_Class {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.UI_ELEMENTS_A1_Text_33_Class {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+    width: 101.012px;
+    height: 36px;
+    line-height: 36px;
+    margin-top: -10px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(153,153,153,1);
+}
+.Dashboard_Analytics_A1_Text_34_Class {
+    position: absolute;
+    left: 17px;
+    top: 34.923px;
+    overflow: visible;
+    width: 109px;
+    white-space: nowrap;
+    line-height: 40px;
+    margin-top: -12px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(52,52,52,1);
+}
+.Group_361_Class {
+    position: absolute;
+    width: 278px;
+    height: 40px;
+    left: 0px;
+    top: 739px;
+    overflow: visible;
+}
+.Rectangle_612 {
+    position: absolute;
+    overflow: visible;
+    width: 278px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+}
+.Dashboard_Class {
+    position: absolute;
+    width: 5px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Rectangle_A1_Rectangle_51_Class {
+    filter: drop-shadow(-1px 1px 5px rgba(126, 114, 242, 0.58));
+}
+.Rectangle_A1_Rectangle_51 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+}
+.ID009_wishlist_Class {
+    position: absolute;
+    width: 31.562px;
+    height: 33.707px;
+    left: 630.62px;
+    top: 241.556px;
+    overflow: visible;
+}
+.Path_2116 {
+    overflow: visible;
+    position: absolute;
+    top: 18.386px;
+    left: 7.661px;
+    width: 1.532px;
+    height: 1.532px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2117 {
+    overflow: visible;
+    position: absolute;
+    top: 22.982px;
+    left: 7.661px;
+    width: 1.532px;
+    height: 1.532px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2118 {
+    overflow: visible;
+    position: absolute;
+    top: 18.386px;
+    left: 10.725px;
+    width: 11.644px;
+    height: 1.532px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2119 {
+    overflow: visible;
+    position: absolute;
+    top: 22.982px;
+    left: 10.725px;
+    width: 11.644px;
+    height: 1.532px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2121 {
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 31.562px;
+    height: 33.707px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Icon___Done___Outlined_Class {
+    position: absolute;
+    width: 15px;
+    height: 14px;
+    left: 8.38px;
+    top: 2.444px;
+    overflow: visible;
+}
+.Box_A1_Rectangle_52 {
+    position: absolute;
+    overflow: visible;
+    width: 15px;
+    height: 15px;
+    left: 0px;
+    top: 0px;
+}
+.Icon___Done___Black {
+    overflow: visible;
+    position: absolute;
+    top: 4.24px;
+    left: 1.817px;
+    width: 10.654px;
+    height: 8.128px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID010_hand_Class {
+    position: absolute;
+    width: 59.981px;
+    height: 60px;
+    left: 1368px;
+    top: 261px;
+    overflow: visible;
+}
+.Path_2124 {
+    overflow: visible;
+    position: absolute;
+    top: 38.695px;
+    left: 25.573px;
+    width: 2.343px;
+    height: 2.343px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2125 {
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 22.025px;
+    width: 25.774px;
+    height: 25.774px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2126 {
+    overflow: visible;
+    position: absolute;
+    top: 24.881px;
+    left: 0px;
+    width: 59.981px;
+    height: 35.119px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2127 {
+    overflow: visible;
+    position: absolute;
+    top: 4.686px;
+    left: 31.088px;
+    width: 7.104px;
+    height: 16.402px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID033_shopping_cart_Class {
+    position: absolute;
+    width: 53.333px;
+    height: 50px;
+    left: 1757.453px;
+    top: 261px;
+    overflow: visible;
+}
+.Path_2128 {
+    overflow: visible;
+    position: absolute;
+    top: 42.436px;
+    left: 39.865px;
+    width: 2.521px;
+    height: 2.521px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2129 {
+    overflow: visible;
+    position: absolute;
+    top: 42.436px;
+    left: 22.721px;
+    width: 2.521px;
+    height: 2.521px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2130 {
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 53.333px;
+    height: 50px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2131 {
+    overflow: visible;
+    position: absolute;
+    top: 20.643px;
+    left: 31.603px;
+    width: 2.521px;
+    height: 2.521px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID031_currency_Class {
+    position: absolute;
+    width: 51px;
+    height: 63.688px;
+    left: 1003px;
+    top: 258px;
+    overflow: visible;
+}
+.Path_2132 {
+    overflow: visible;
+    position: absolute;
+    top: 25.624px;
+    left: 14.927px;
+    width: 2.488px;
+    height: 2.488px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2133 {
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 51px;
+    height: 63.688px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2134 {
+    overflow: visible;
+    position: absolute;
+    top: 37.566px;
+    left: 29.774px;
+    width: 7.543px;
+    height: 17.415px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID028_voucher_Class {
+    position: absolute;
+    width: 55.656px;
+    height: 50px;
+    left: 607px;
+    top: 258px;
+    overflow: visible;
+}
+.Path_2135 {
+    overflow: visible;
+    position: absolute;
+    top: 6.522px;
+    left: 18.045px;
+    width: 2.174px;
+    height: 2.174px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2136 {
+    overflow: visible;
+    position: absolute;
+    top: 6.522px;
+    left: 7.105px;
+    width: 6.592px;
+    height: 15.219px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2137 {
+    overflow: visible;
+    position: absolute;
+    top: 36.959px;
+    left: 20.871px;
+    width: 8.696px;
+    height: 8.696px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2138 {
+    overflow: visible;
+    position: absolute;
+    top: 36.959px;
+    left: 42.612px;
+    width: 8.696px;
+    height: 8.696px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2139 {
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 55.656px;
+    height: 50px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2140 {
+    overflow: visible;
+    position: absolute;
+    top: 6.522px;
+    left: 33.916px;
+    width: 2.174px;
+    height: 4.348px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2141 {
+    overflow: visible;
+    position: absolute;
+    top: 13.044px;
+    left: 33.916px;
+    width: 2.174px;
+    height: 4.348px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2142 {
+    overflow: visible;
+    position: absolute;
+    top: 19.567px;
+    left: 18.045px;
+    width: 11.523px;
+    height: 2.174px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2143 {
+    overflow: visible;
+    position: absolute;
+    top: 13.044px;
+    left: 18.045px;
+    width: 11.523px;
+    height: 2.174px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2144 {
+    overflow: visible;
+    position: absolute;
+    top: 6.522px;
+    left: 40.438px;
+    width: 8.696px;
+    height: 2.174px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_2145 {
+    overflow: visible;
+    position: absolute;
+    top: 6.522px;
+    left: 22.393px;
+    width: 7.174px;
+    height: 2.174px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Group_378_Class {
+    position: absolute;
+    width: 411px;
+    height: 197px;
+    left: 396px;
+    top: 558px;
+    overflow: visible;
+}
+.Chart_A1_Group_57_Class {
+    position: absolute;
+    width: 104px;
+    height: 170px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Group_374_Class {
+    position: absolute;
+    width: 44px;
+    height: 170px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Group_376_Class {
+    position: absolute;
+    width: 44px;
+    height: 170px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Rectangle_10 {
+    position: absolute;
+    overflow: visible;
+    width: 22px;
+    height: 170px;
+    left: 22px;
+    top: 0px;
+}
+.Rectangle_617 {
+    position: absolute;
+    overflow: visible;
+    width: 22px;
+    height: 127px;
+    left: 0px;
+    top: 43px;
+}
+.Group_377_Class {
+    position: absolute;
+    width: 44px;
+    height: 75px;
+    left: 60px;
+    top: 95px;
+    overflow: visible;
+}
+.Group_376_A1_Group_61_Class {
+    position: absolute;
+    width: 44px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Rectangle_10_A1_Rectangle_55 {
+    position: absolute;
+    overflow: visible;
+    width: 22px;
+    height: 75px;
+    left: 22px;
+    top: 0px;
+}
+.Rectangle_617_A1_Rectangle_56 {
+    position: absolute;
+    overflow: visible;
+    width: 22px;
+    height: 28px;
+    left: 0px;
+    top: 47px;
+}
+.Chart_A1_Group_62_Class {
+    position: absolute;
+    width: 103px;
+    height: 112px;
+    left: 121px;
+    top: 58px;
+    overflow: visible;
+}
+.Group_374_A1_Group_63_Class {
+    position: absolute;
+    width: 44px;
+    height: 112px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Group_376_A1_Group_64_Class {
+    position: absolute;
+    width: 44px;
+    height: 112px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Rectangle_10_A1_Rectangle_57 {
+    position: absolute;
+    overflow: visible;
+    width: 22px;
+    height: 52px;
+    left: 22px;
+    top: 60px;
+}
+.Rectangle_617_A1_Rectangle_58 {
+    position: absolute;
+    overflow: visible;
+    width: 22px;
+    height: 112px;
+    left: 0px;
+    top: 0px;
+}
+.Group_377_A1_Group_65_Class {
+    position: absolute;
+    width: 43px;
+    height: 75px;
+    left: 60px;
+    top: 37px;
+    overflow: visible;
+}
+.Group_376_A1_Group_66_Class {
+    position: absolute;
+    width: 43px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Rectangle_10_A1_Rectangle_59 {
+    position: absolute;
+    overflow: visible;
+    width: 22px;
+    height: 75px;
+    left: 21px;
+    top: 0px;
+}
+.Rectangle_617_A1_Rectangle_60 {
+    position: absolute;
+    overflow: visible;
+    width: 21px;
+    height: 28px;
+    left: 0px;
+    top: 47px;
+}
+.Chart_A1_RepeatGrid_1_Class {
+    position: absolute;
+    width: 180px;
+    height: 170px;
+    left: 231px;
+    top: 0px;
+    overflow: hidden;
+}
+.Chart_A1_Group_67_Class {
+    position: absolute;
+    width: 104px;
+    height: 165px;
+    left: 0px;
+    top: 5px;
+    overflow: visible;
+}
+.Group_374_A1_Group_68_Class {
+    position: absolute;
+    width: 44px;
+    height: 132px;
+    left: 0px;
+    top: 33px;
+    overflow: visible;
+}
+.Group_376_A1_Group_69_Class {
+    position: absolute;
+    width: 44px;
+    height: 132px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Rectangle_10_A1_Rectangle_61 {
+    position: absolute;
+    overflow: visible;
+    width: 22px;
+    height: 132px;
+    left: 22px;
+    top: 0px;
+}
+.Rectangle_617_A1_Rectangle_62 {
+    position: absolute;
+    overflow: visible;
+    width: 22px;
+    height: 111px;
+    left: 0px;
+    top: 21px;
+}
+.Group_377_A1_Group_70_Class {
+    position: absolute;
+    width: 44px;
+    height: 165px;
+    left: 60px;
+    top: 0px;
+    overflow: visible;
+}
+.Group_376_A1_Group_71_Class {
+    position: absolute;
+    width: 44px;
+    height: 165px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Rectangle_10_A1_Rectangle_63 {
+    position: absolute;
+    overflow: visible;
+    width: 22px;
+    height: 148px;
+    left: 22px;
+    top: 17px;
+}
+.Rectangle_617_A1_Rectangle_64 {
+    position: absolute;
+    overflow: visible;
+    width: 22px;
+    height: 165px;
+    left: 0px;
+    top: 0px;
+}
+.Chart_A1_Group_72_Class {
+    position: absolute;
+    width: 104px;
+    height: 165px;
+    left: 124px;
+    top: 5px;
+    overflow: visible;
+}
+.Group_374_A1_Group_73_Class {
+    position: absolute;
+    width: 44px;
+    height: 132px;
+    left: 0px;
+    top: 33px;
+    overflow: visible;
+}
+.Group_376_A1_Group_74_Class {
+    position: absolute;
+    width: 44px;
+    height: 132px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Rectangle_10_A1_Rectangle_65 {
+    position: absolute;
+    overflow: visible;
+    width: 22px;
+    height: 132px;
+    left: 22px;
+    top: 0px;
+}
+.Rectangle_617_A1_Rectangle_66 {
+    position: absolute;
+    overflow: visible;
+    width: 22px;
+    height: 111px;
+    left: 0px;
+    top: 21px;
+}
+.Group_377_A1_Group_75_Class {
+    position: absolute;
+    width: 44px;
+    height: 165px;
+    left: 60px;
+    top: 0px;
+    overflow: visible;
+}
+.Group_376_A1_Group_76_Class {
+    position: absolute;
+    width: 44px;
+    height: 165px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Rectangle_10_A1_Rectangle_67 {
+    position: absolute;
+    overflow: visible;
+    width: 22px;
+    height: 148px;
+    left: 22px;
+    top: 17px;
+}
+.Rectangle_617_A1_Rectangle_68 {
+    position: absolute;
+    overflow: visible;
+    width: 22px;
+    height: 165px;
+    left: 0px;
+    top: 0px;
+}
+.Seg_Class {
+    position: absolute;
+    left: 7px;
+    top: 178px;
+    overflow: visible;
+    width: 31px;
+    white-space: nowrap;
+    line-height: 79px;
+    margin-top: -31.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(52,52,52,1);
+}
+.Ter_Class {
+    position: absolute;
+    left: 69px;
+    top: 178px;
+    overflow: visible;
+    width: 25px;
+    white-space: nowrap;
+    line-height: 79px;
+    margin-top: -31.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(52,52,52,1);
+}
+.Qua_Class {
+    position: absolute;
+    left: 123px;
+    top: 178px;
+    overflow: visible;
+    width: 35px;
+    white-space: nowrap;
+    line-height: 79px;
+    margin-top: -31.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(52,52,52,1);
+}
+.Qui_Class {
+    position: absolute;
+    left: 185px;
+    top: 178px;
+    overflow: visible;
+    width: 29px;
+    white-space: nowrap;
+    line-height: 79px;
+    margin-top: -31.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(52,52,52,1);
+}
+.Sex_Class {
+    position: absolute;
+    left: 238px;
+    top: 178px;
+    overflow: visible;
+    width: 29px;
+    white-space: nowrap;
+    line-height: 79px;
+    margin-top: -31.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(52,52,52,1);
+}
+.S_b_Class {
+    position: absolute;
+    left: 298px;
+    top: 178px;
+    overflow: visible;
+    width: 31px;
+    white-space: nowrap;
+    line-height: 79px;
+    margin-top: -31.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(52,52,52,1);
+}
+.Dom_Class {
+    position: absolute;
+    left: 360px;
+    top: 178px;
+    overflow: visible;
+    width: 41px;
+    white-space: nowrap;
+    line-height: 79px;
+    margin-top: -31.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(52,52,52,1);
+}
+.Ellipse_76 {
+    position: absolute;
+    overflow: visible;
+    width: 15px;
+    height: 15px;
+    left: 397px;
+    top: 854px;
+}
+.Last_Month_Class {
+    position: absolute;
+    left: 421px;
+    top: 852px;
+    overflow: hidden;
+    width: 145px;
+    height: 16px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(44,44,44,1);
+}
+.Ellipse_77 {
+    position: absolute;
+    overflow: visible;
+    width: 15px;
+    height: 15px;
+    left: 659px;
+    top: 854px;
+}
+.Last_Month_A1_Text_43_Class {
+    position: absolute;
+    left: 683px;
+    top: 852px;
+    overflow: hidden;
+    width: 145px;
+    height: 16px;
+    text-align: left;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(44,44,44,1);
+}
+.Union_11_Class {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+}
+.Union_11 {
+    overflow: visible;
+    position: absolute;
+    top: 536px;
+    left: 619px;
+    width: 98px;
+    height: 93px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.R__1_000_Class {
+    position: absolute;
+    left: 634px;
+    top: 560px;
+    overflow: visible;
+    width: 52px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(22,22,22,1);
+}

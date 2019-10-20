@@ -4,6 +4,7 @@ var favicon = require('serve-favicon');
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
+let req = require("request");
 
 var routes = require('./routes/index');
 var users = require('./routes/users');
@@ -56,5 +57,49 @@ app.use(function(err, req, res, next) {
   });
 });
 
+//Integrating Prediction Model with server
+const uri = "https://ussouthcentral.services.azureml.net/workspaces/4c216a5766b54b3daa00a8661b9060b8/services/e3bcc1f0a91b47cfa0d9c3bd8eae66a6/execute?api-version=2.0&details=true";
+const apiKey = "l6NCwuMkmTTG8W5J1KSNcshdaR1hQZ2v3hEFC+CyLtJh4Rvapt1iyIFBA71uzMLVFUXPcCLstaR+KK0oP+idww==";
+
+let data = {
+  "Inputs": {
+    "input1": {
+      "ColumnNames": [
+        "id_estabelecimento",
+        "Nome_do_prato",
+        "Dia_da_semana",
+        "app_id",
+        "Valor_do_produto",
+        "Desconto_praticado"
+      ],
+      "Values": [
+        [
+          "1",
+          "Churrasco carioca para 4 pessoas",
+          "quinta-feira",
+          "2",
+          "12.90",
+          "0"
+        ],
+      ]
+    }
+  },
+  "GlobalParameters": {}
+}
+
+const options = {
+    uri: uri,
+    method: "POST",
+    headers: {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer " + apiKey,
+    },
+    body: JSON.stringify(data)
+}
+
+req(options, (err, res, body) => {
+        console.log(body);
+    }
+);
 
 module.exports = app;
